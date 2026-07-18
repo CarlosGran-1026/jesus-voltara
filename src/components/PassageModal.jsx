@@ -1,5 +1,14 @@
 import { useEffect, useState } from 'react'
 import { fetchPassage } from '@/utils/passageFetcher'
+import { bibleBookFullNames } from '@/data/bibleBookIdMap'
+
+function expandReferenceName(reference) {
+  const token = Object.keys(bibleBookFullNames)
+    .sort((a, b) => b.length - a.length)
+    .find((t) => reference === t || reference.startsWith(`${t} `))
+  if (!token) return reference
+  return reference.replace(token, bibleBookFullNames[token])
+}
 
 export default function PassageModal({ reference, onClose }) {
   const [status, setStatus] = useState('loading') // loading | ready | error
@@ -40,7 +49,7 @@ export default function PassageModal({ reference, onClose }) {
     }
   }, [onClose])
 
-  const searchUrl = `https://www.bibliaonline.com.br/acf/busca?q=${encodeURIComponent(reference)}`
+  const searchUrl = `https://www.google.com/search?q=${encodeURIComponent(`${expandReferenceName(reference)} Bíblia Almeida`)}`
 
   return (
     <div

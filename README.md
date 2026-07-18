@@ -68,23 +68,15 @@ Para produção com múltiplos usuários/editores, recomenda-se migrar os dados 
 - `src/hooks` — lógica de mensagens (CRUD), tema e busca/filtros
 - `src/utils` — slug, datas e geração de imagem via Canvas
 
-## Leitura do texto bíblico direto no calendário
+## Leitura do texto bíblico e busca, direto no site
 
-No Calendário de Leitura (`/calendario`), cada referência (ex: "Sl 56-59") é clicável — ao clicar, o texto correspondente aparece numa janela sobreposta, sem sair da página. O texto vem de uma API pública e gratuita, a **A Bíblia Digital** (abibliadigital.com.br), na versão **Almeida Corrigida Fiel (ACF)**.
+No Calendário de Leitura (`/calendario`), cada referência (ex: "Sl 56-59") é clicável — ao clicar, o texto aparece numa janela sobreposta, sem sair da página. A página **Buscar** (`/buscar`) também é uma busca real na Bíblia: digite uma palavra (ex: "esperança") para encontrar todos os versículos que a contêm, ou uma referência (ex: "Romanos 8", "Sl 23") para ler o texto direto.
 
-**Sobre o limite de requisições:** sem nenhuma configuração extra, o site já funciona, mas cada visitante tem um limite de **20 requisições por hora** compartilhado por IP (bastante para uso normal, mas pode esbarrar em leituras muito longas — alguns dias pedem vários capítulos de uma vez). Para remover esse limite:
+O texto vem de um acervo público hospedado como arquivos estáticos no GitHub (github.com/MaatheusGois/bible), na versão **Almeida Corrigida Fiel (ACF)** — sem necessidade de conta, token ou configuração, e sem limite de requisições (é só um arquivo de texto sendo baixado, como uma imagem).
 
-1. Acesse **abibliadigital.com.br**, crie uma conta gratuita (não pede cartão)
-2. Copie o token gerado
-3. Abra `src/utils/passageFetcher.js` e cole o token na constante `API_TOKEN`, no topo do arquivo:
-   ```js
-   const API_TOKEN = 'seu-token-aqui'
-   ```
-4. Rode `npm run build` novamente e publique
+O site guarda em cache (no navegador, durante a sessão) cada livro já buscado, então reabrir a mesma referência não baixa os dados de novo. A busca por palavra baixa o texto completo da Bíblia (~1 MB comprimido) na primeira vez que é usada; buscas seguintes na mesma sessão são instantâneas.
 
-O site também guarda em cache (no navegador, durante a sessão) cada capítulo já buscado, então reabrir a mesma referência não gasta uma nova requisição.
-
-Se algum dia o serviço estiver fora do ar ou uma referência não carregar, aparece um aviso com um link para abrir a passagem em outra aba, então o recurso nunca trava a navegação.
+Se algum dia o serviço estiver fora do ar, aparece um aviso com um link de apoio (busca no Google pelo nome completo do livro), então o recurso nunca trava a navegação.
 
 
 - **Nome do site**: trocar "Jesus Voltará" em `Header.jsx`, `Footer.jsx`, `index.html`, `shareImage.js` e `About.jsx`
