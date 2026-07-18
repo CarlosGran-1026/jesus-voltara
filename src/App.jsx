@@ -11,6 +11,7 @@ import About from '@/pages/About'
 import Contact from '@/pages/Contact'
 import Search from '@/pages/Search'
 import Admin from '@/pages/Admin'
+import ReadingPlan from '@/pages/ReadingPlan'
 
 export default function App() {
   return (
@@ -27,6 +28,7 @@ export default function App() {
           <Route path="/sobre" element={<About />} />
           <Route path="/contato" element={<Contact />} />
           <Route path="/buscar" element={<Search />} />
+          <Route path="/calendario" element={<ReadingPlan />} />
           <Route path="/admin" element={<Admin />} />
           <Route
             path="*"

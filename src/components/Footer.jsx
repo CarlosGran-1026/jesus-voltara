@@ -19,6 +19,7 @@ export default function Footer() {
             <div style={{ display: 'flex', flexDirection: 'column', gap: '0.5em' }}>
               <Link to="/mensagens">Mensagens</Link>
               <Link to="/categorias">Categorias</Link>
+              <Link to="/calendario">Calendário de leitura</Link>
               <Link to="/buscar">Buscar versículo</Link>
               <Link to="/sobre">Sobre</Link>
             </div>

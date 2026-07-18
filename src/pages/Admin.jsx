@@ -5,7 +5,7 @@ import { bibleBooks } from '@/data/bibleBooks'
 import { formatDate } from '@/utils/date'
 
 const ADMIN_USERNAME = 'JesusVoltara'
-const ADMIN_PASSWORD = 'Jeus#2026'
+const ADMIN_PASSWORD = 'Jesus#2026'
 const SESSION_KEY = 'palavraviva_admin_session'
 
 const emptyForm = {

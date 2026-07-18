@@ -6,6 +6,7 @@ const navItems = [
   { to: '/', label: 'Início' },
   { to: '/mensagens', label: 'Mensagens' },
   { to: '/categorias', label: 'Categorias' },
+  { to: '/calendario', label: 'Calendário' },
   { to: '/buscar', label: 'Buscar' },
   { to: '/sobre', label: 'Sobre' },
   { to: '/contato', label: 'Contato' },
