@@ -68,7 +68,24 @@ Para produção com múltiplos usuários/editores, recomenda-se migrar os dados 
 - `src/hooks` — lógica de mensagens (CRUD), tema e busca/filtros
 - `src/utils` — slug, datas e geração de imagem via Canvas
 
-## Personalização rápida
+## Leitura do texto bíblico direto no calendário
+
+No Calendário de Leitura (`/calendario`), cada referência (ex: "Sl 56-59") é clicável — ao clicar, o texto correspondente aparece numa janela sobreposta, sem sair da página. O texto vem de uma API pública e gratuita, a **A Bíblia Digital** (abibliadigital.com.br), na versão **Almeida Corrigida Fiel (ACF)**.
+
+**Sobre o limite de requisições:** sem nenhuma configuração extra, o site já funciona, mas cada visitante tem um limite de **20 requisições por hora** compartilhado por IP (bastante para uso normal, mas pode esbarrar em leituras muito longas — alguns dias pedem vários capítulos de uma vez). Para remover esse limite:
+
+1. Acesse **abibliadigital.com.br**, crie uma conta gratuita (não pede cartão)
+2. Copie o token gerado
+3. Abra `src/utils/passageFetcher.js` e cole o token na constante `API_TOKEN`, no topo do arquivo:
+   ```js
+   const API_TOKEN = 'seu-token-aqui'
+   ```
+4. Rode `npm run build` novamente e publique
+
+O site também guarda em cache (no navegador, durante a sessão) cada capítulo já buscado, então reabrir a mesma referência não gasta uma nova requisição.
+
+Se algum dia o serviço estiver fora do ar ou uma referência não carregar, aparece um aviso com um link para abrir a passagem em outra aba, então o recurso nunca trava a navegação.
+
 
 - **Nome do site**: trocar "Jesus Voltará" em `Header.jsx`, `Footer.jsx`, `index.html`, `shareImage.js` e `About.jsx`
 - **Cores**: variáveis CSS em `src/index.css` (`:root` e `[data-theme='dark']`)

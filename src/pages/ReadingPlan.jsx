@@ -1,6 +1,7 @@
 import { useMemo, useState } from 'react'
 import { generateReadingPlan } from '@/utils/readingPlan'
 import { useReadingProgress } from '@/hooks/useReadingProgress'
+import PassageModal from '@/components/PassageModal'
 
 const monthNames = [
   'Janeiro', 'Fevereiro', 'Março', 'Abril', 'Maio', 'Junho',
@@ -10,6 +11,13 @@ const monthNames = [
 export default function ReadingPlan() {
   const currentYear = new Date().getFullYear()
   const [year, setYear] = useState(currentYear)
+  const [openRef, setOpenRef] = useState(null)
+
+  const handleOpenRef = (ref) => (e) => {
+    e.preventDefault()
+    e.stopPropagation()
+    setOpenRef(ref)
+  }
 
   const plan = useMemo(() => generateReadingPlan(year), [year])
   const { isChecked, toggleDay, checkedCount } = useReadingProgress(year)
@@ -73,7 +81,19 @@ export default function ReadingPlan() {
       {todayEntry && (
         <div className="card fade-in" style={{ padding: 'var(--sp-3)', marginBottom: 'var(--sp-4)', borderLeft: '4px solid var(--accent-gold)' }}>
           <span className="eyebrow">Leitura de hoje</span>
-          <h3 style={{ margin: '0.2em 0' }}>{todayEntry.label}</h3>
+          <h3 style={{ margin: '0.2em 0', display: 'flex', gap: '0.5em', flexWrap: 'wrap', alignItems: 'baseline' }}>
+            <button type="button" onClick={handleOpenRef(todayEntry.ot)} className="ref-link">
+              {todayEntry.ot}
+            </button>
+            {todayEntry.nt && (
+              <>
+                <span style={{ color: 'var(--accent-gold)' }}>+</span>
+                <button type="button" onClick={handleOpenRef(todayEntry.nt)} className="ref-link">
+                  {todayEntry.nt}
+                </button>
+              </>
+            )}
+          </h3>
           <label style={{ display: 'inline-flex', alignItems: 'center', gap: '0.5em', fontSize: 'var(--fs-sm)', cursor: 'pointer', color: 'var(--text-secondary)' }}>
             <input type="checkbox" checked={isChecked(todayEntry.dayOfYear)} onChange={() => toggleDay(todayEntry.dayOfYear)} />
             Marcar como lida
@@ -135,11 +155,15 @@ export default function ReadingPlan() {
                         flexWrap: 'wrap',
                       }}
                     >
-                      <span>{entry.ot}</span>
+                      <button type="button" onClick={handleOpenRef(entry.ot)} className="ref-link">
+                        {entry.ot}
+                      </button>
                       {entry.nt && (
                         <>
                           <span style={{ color: 'var(--accent-gold)' }}>+</span>
-                          <span>{entry.nt}</span>
+                          <button type="button" onClick={handleOpenRef(entry.nt)} className="ref-link">
+                            {entry.nt}
+                          </button>
                         </>
                       )}
                       {entry.leapOnly && (
@@ -155,6 +179,26 @@ export default function ReadingPlan() {
           )
         })}
       </div>
+
+      {openRef && <PassageModal reference={openRef} onClose={() => setOpenRef(null)} />}
+
+      <style>{`
+        .ref-link {
+          background: none;
+          border: none;
+          padding: 0;
+          font: inherit;
+          color: inherit;
+          cursor: pointer;
+          text-decoration: underline;
+          text-decoration-color: var(--border-subtle);
+          text-underline-offset: 3px;
+        }
+        .ref-link:hover {
+          color: var(--accent);
+          text-decoration-color: var(--accent);
+        }
+      `}</style>
     </div>
   )
 }
