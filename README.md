@@ -78,6 +78,44 @@ O site guarda em cache (no navegador, durante a sessão) cada livro já buscado,
 
 Se algum dia o serviço estiver fora do ar, aparece um aviso com um link de apoio (busca no Google pelo nome completo do livro), então o recurso nunca trava a navegação.
 
+## Aparecer no Google e divulgar nas redes sociais
+
+O projeto já vem preparado tecnicamente para isso: meta tags de SEO, imagem de compartilhamento (`public/og-image.png`), `robots.txt` e `sitemap.xml`. Mas faltam alguns passos manuais, que só podem ser feitos por você (não é algo que se resolve só no código):
+
+### 1. Antes de tudo: troque o domínio de exemplo
+
+Os arquivos usam `https://SEU-DOMINIO-AQUI.netlify.app/` como placeholder. Depois de publicar no Netlify (e saber o endereço final do site, ou configurar um domínio próprio), substitua esse texto pelo endereço real em 3 arquivos:
+- `index.html` (5 ocorrências: canonical, og:url, og:image, twitter:image)
+- `public/robots.txt`
+- `public/sitemap.xml` (em todas as URLs)
+
+Depois rode `npm run build` de novo e publique.
+
+### 2. Cadastrar no Google Search Console (para aparecer nas buscas)
+
+1. Acesse **search.google.com/search-console**
+2. Adicione seu site (propriedade tipo "prefixo do URL")
+3. Verifique a propriedade (o Netlify permite verificar via DNS ou subindo um arquivo HTML — o Search Console explica o passo exato)
+4. Depois de verificado, vá em **Sitemaps** no menu lateral e envie: `sitemap.xml`
+5. Pronto — o Google passa a rastrear o site periodicamente. Não é instantâneo: costuma levar de alguns dias a poucas semanas para as páginas aparecerem nos resultados de busca
+
+Dica: em **Inspeção de URL** (mesmo menu), você pode colar o link da home e clicar em "Solicitar indexação" para acelerar um pouco a primeira indexação.
+
+### 3. Divulgar nas redes sociais
+
+Isso é mais estratégia do que código, mas alguns pontos técnicos ajudam:
+- Quando você colar o link do site no WhatsApp, Instagram (bio/stories), Facebook ou Twitter/X, a imagem de capa (`og-image.png`) e o título/descrição já aparecem automaticamente, graças às meta tags — não precisa fazer nada extra
+- Se colar o link e a prévia não atualizar (às vezes as redes guardam versão antiga em cache), use o **Facebook Sharing Debugger** (developers.facebook.com/tools/debug) colando a URL do site e clicando em "Scrape Again" — isso força a rede a buscar a versão nova
+- Ideias de conteúdo para postar: a mensagem do dia (a Home já destaca uma), um card de versículo (o botão "Gerar imagem" dentro de cada mensagem serve exatamente para isso), ou convidar para o Calendário de Leitura
+
+### 4. Ideias adicionais (fora do escopo do código)
+
+- Criar perfis do site no Instagram/Facebook com o mesmo nome e logo, linkando para o site na bio
+- Compartilhar em grupos de WhatsApp/Telegram relacionados ao tema
+- Pedir para amigos/conhecidos compartilharem — engajamento inicial ajuda o Google a entender que o site é relevante
+
+## Personalização rápida
+
 
 - **Nome do site**: trocar "Jesus Voltará" em `Header.jsx`, `Footer.jsx`, `index.html`, `shareImage.js` e `About.jsx`
 - **Cores**: variáveis CSS em `src/index.css` (`:root` e `[data-theme='dark']`)

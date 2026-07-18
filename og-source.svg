@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1A3A3A"/>
+      <stop offset="55%" stop-color="#2D6A6A"/>
+      <stop offset="100%" stop-color="#C9A84C"/>
+    </linearGradient>
+    <radialGradient id="glow1" cx="20%" cy="20%" r="50%">
+      <stop offset="0%" stop-color="#C9A84C" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#C9A84C" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glow2" cx="85%" cy="85%" r="50%">
+      <stop offset="0%" stop-color="#4ECDC4" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#4ECDC4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow1)"/>
+  <rect width="1200" height="630" fill="url(#glow2)"/>
+
+  <circle cx="600" cy="315" r="260" fill="none" stroke="#FAFAF7" stroke-opacity="0.12" stroke-width="2"/>
+
+  <!-- Ícone: livro com chama -->
+  <g transform="translate(600, 175)">
+    <path d="M -60 10 C -20 -12 20 -12 60 10 V 90 C 20 68 -20 68 -60 90 Z" fill="#FAFAF7" opacity="0.95"/>
+    <path d="M 60 10 C 20 -12 -20 -12 -60 10" fill="none"/>
+    <path d="M 0 -55 C 14 -35 22 -20 22 -8 C 22 5 12 12 0 12 C -12 12 -22 5 -22 -8 C -22 -20 -14 -35 0 -55 Z" fill="#C9A84C"/>
+  </g>
+
+  <text x="600" y="345" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="700" fill="#FAFAF7" text-anchor="middle">Jesus Voltará</text>
+
+  <text x="600" y="410" font-family="Georgia, 'Times New Roman', serif" font-style="italic" font-size="32" fill="#F0EDE6" text-anchor="middle">Mensagens bíblicas diárias para alimentar sua fé</text>
+
+  <text x="600" y="470" font-family="Arial, sans-serif" font-size="22" letter-spacing="3" fill="#C9A84C" text-anchor="middle">DEVOCIONAIS · CALENDÁRIO DE LEITURA · REFLEXÕES</text>
+</svg>
