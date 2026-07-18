@@ -17,8 +17,7 @@ export default function ReadingPlan() {
   const months = useMemo(() => {
     const grouped = Array.from({ length: 12 }, () => [])
     plan.forEach((entry) => {
-      const month = new Date(entry.date + 'T12:00:00').getMonth()
-      grouped[month].push(entry)
+      grouped[entry.month].push(entry)
     })
     return grouped
   }, [plan])
@@ -123,7 +122,7 @@ export default function ReadingPlan() {
                   >
                     <input type="checkbox" checked={isChecked(entry.dayOfYear)} onChange={() => toggleDay(entry.dayOfYear)} />
                     <span style={{ fontSize: 'var(--fs-xs)', color: 'var(--text-muted)', minWidth: 30 }}>
-                      {new Date(entry.date + 'T12:00:00').getDate().toString().padStart(2, '0')}
+                      {String(entry.day).padStart(2, '0')}
                     </span>
                     <span
                       style={{
@@ -142,6 +141,11 @@ export default function ReadingPlan() {
                           <span style={{ color: 'var(--accent-gold)' }}>+</span>
                           <span>{entry.nt}</span>
                         </>
+                      )}
+                      {entry.leapOnly && (
+                        <span className="badge" style={{ fontSize: '0.7rem', padding: '0.15em 0.6em' }}>
+                          leitura bônus
+                        </span>
                       )}
                     </span>
                   </label>

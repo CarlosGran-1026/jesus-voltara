@@ -12,7 +12,10 @@ function toISODate(date) {
 }
 
 // Monta o plano do ano a partir dos dados fixos do calendário (AT + NT por dia).
-// O dia extra de 29/02 (leapOnly) só entra em anos bissextos.
+// O calendário é genérico (mês/dia), então o 29/02 aparece sempre, mesmo em anos
+// não bissextos — nesses casos ele não corresponde a uma data real do calendário,
+// por isso usamos um identificador estável em vez de um objeto Date (que arredondaria
+// para 1º de março). Isso não afeta a marcação de "hoje", que segue funcionando normalmente.
 export function generateReadingPlan(year) {
   const leap = isLeapYear(year)
   const plan = []
@@ -20,17 +23,22 @@ export function generateReadingPlan(year) {
 
   dailyReadingPlan.forEach((month, monthIndex) => {
     month.days.forEach((entry) => {
-      if (entry.leapOnly && !leap) return
-
       dayOfYear += 1
-      const date = new Date(year, monthIndex, entry.day)
+
+      const isRealDate = !entry.leapOnly || leap
+      const isoDate = isRealDate
+        ? toISODate(new Date(year, monthIndex, entry.day))
+        : `${year}-02-29`
 
       plan.push({
-        date: toISODate(date),
+        date: isoDate,
+        month: monthIndex,
+        day: entry.day,
         dayOfYear,
         ot: entry.ot,
         nt: entry.nt,
         label: entry.nt ? `${entry.ot} + ${entry.nt}` : entry.ot,
+        leapOnly: !!entry.leapOnly,
       })
     })
   })
