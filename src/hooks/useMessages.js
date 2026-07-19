@@ -11,7 +11,22 @@ function loadMessages() {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(seedMessages))
       return seedMessages
     }
-    return JSON.parse(raw)
+
+    const current = JSON.parse(raw)
+
+    // Sincronização segura: adiciona ao navegador do visitante qualquer mensagem
+    // nova do seed (publicada depois da primeira visita) sem apagar mensagens
+    // criadas/editadas manualmente pelo admin.
+    const currentIds = new Set(current.map((m) => m.id))
+    const missing = seedMessages.filter((m) => !currentIds.has(m.id))
+
+    if (missing.length > 0) {
+      const merged = [...current, ...missing]
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(merged))
+      return merged
+    }
+
+    return current
   } catch {
     return seedMessages
   }

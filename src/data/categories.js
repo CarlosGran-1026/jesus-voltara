@@ -59,6 +59,42 @@ export const categories = [
     icon: '⚓',
     description: 'Entregar o caminho a quem já o conhece.',
   },
+  {
+    slug: 'perdao',
+    name: 'Perdão',
+    icon: '↺',
+    description: 'Soltar o que pesa, para viver mais leve.',
+  },
+  {
+    slug: 'alegria',
+    name: 'Alegria',
+    icon: '☼',
+    description: 'Um contentamento que não depende das circunstâncias.',
+  },
+  {
+    slug: 'oracao',
+    name: 'Oração',
+    icon: '✝',
+    description: 'Conversar com Deus como quem fala com um Pai.',
+  },
+  {
+    slug: 'coragem',
+    name: 'Coragem',
+    icon: '⚡',
+    description: 'Força para agir mesmo com medo.',
+  },
+  {
+    slug: 'generosidade',
+    name: 'Generosidade',
+    icon: '✤',
+    description: 'Dar como quem já recebeu tudo de graça.',
+  },
+  {
+    slug: 'proposito',
+    name: 'Propósito',
+    icon: '✪',
+    description: 'Descobrir para que fomos formados.',
+  },
 ]
 
 export function getCategoryBySlug(slug) {
