@@ -1470,4 +1470,922 @@ Isso é relevante para proteger qualquer compromisso importante hoje — um proj
 
 Vale perguntar, diante do próximo convite ou pedido que surgir: isso realmente merece que eu "desça", ou é uma distração da obra importante que já estou fazendo?`,
   },
+  {
+    id: 'm76',
+    slug: 'para-tal-tempo-como-este',
+    title: 'Para Tal Tempo Como Este',
+    verseText: 'E quem sabe se para tal tempo como este chegaste a este reino?',
+    verseRef: 'Ester 4:14',
+    book: 'Ester',
+    category: 'proposito',
+    date: '2027-01-08',
+    views: 289,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #C9A84C 140%)',
+    body: `Mardoqueu desafia Ester a agir diante de um perigo que ameaçava todo o seu povo, sugerindo algo poderoso: talvez sua posição privilegiada não fosse coincidência, mas preparação para exatamente aquele momento.
+
+Isso convida a pensar sobre a própria vida de forma diferente: e se as circunstâncias específicas que trouxeram alguém até onde está hoje — a formação, os contatos, até certas dificuldades superadas — não forem apenas acaso, mas preparação para um propósito ainda não totalmente revelado?
+
+Ester tinha boas razões para hesitar: agir significava correr risco real, inclusive de vida. A pergunta de Mardoqueu não elimina o medo, mas oferece um contexto maior para decidir apesar dele: talvez esse seja exatamente o motivo de estar ali.
+
+Isso não significa que toda situação difícil tenha um propósito claro e imediatamente visível. Mas convida a uma pergunta honesta diante de oportunidades desconfortáveis: será que estou aqui, agora, por acaso — ou talvez para isso mesmo?
+
+Diante de uma oportunidade que exige coragem hoje, vale perguntar: e se for exatamente para isso que cheguei até aqui?`,
+  },
+  {
+    id: 'm77',
+    slug: 'se-perecer-pereco',
+    title: 'Se Perecer, Pereço',
+    verseText: 'E assim entrarei a ter com o rei, ainda que não seja segundo a lei; e, se perecer, pereço.',
+    verseRef: 'Ester 4:16',
+    book: 'Ester',
+    category: 'coragem',
+    date: '2027-01-11',
+    views: 267,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #2D6A6A 140%)',
+    body: `Depois de ouvir o apelo de Mardoqueu, Ester não responde com uma promessa fácil ou otimista. Ela pede um tempo de jejum, e depois toma a decisão sabendo exatamente o risco envolvido — inclusive a possibilidade real de morte.
+
+"Se perecer, pereço" não é bravata nem negação do perigo. É uma aceitação madura do custo possível, unida à decisão de agir mesmo assim. Coragem genuína raramente vem sem medo — vem apesar dele, com plena consciência do que pode custar.
+
+Isso é diferente de otimismo ingênuo que assume que tudo vai dar certo. Ester agiu sem garantia de sucesso, apenas com a convicção de que aquilo precisava ser feito, custe o que custasse.
+
+Decisões corajosas na vida raramente vêm com garantias. Frequentemente, o que separa quem age de quem permanece paralisado não é a ausência de risco, mas a disposição de aceitar o risco como parte necessária da decisão.
+
+Diante de algo que exige coragem real hoje, talvez a pergunta não seja "tenho garantia de que vai dar certo?", mas "estou disposto a agir mesmo sem essa garantia?"`,
+  },
+  {
+    id: 'm78',
+    slug: 'os-judeus-tiveram-luz-e-alegria',
+    title: 'Os Judeus Tiveram Luz e Alegria',
+    verseText: 'E para os judeus houve luz, e alegria, e gozo, e honra.',
+    verseRef: 'Ester 8:16',
+    book: 'Ester',
+    category: 'alegria',
+    date: '2027-01-14',
+    views: 213,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Depois de capítulos de tensão crescente, ameaça e incerteza, o livro de Ester finalmente vira: o perigo é revertido, e o povo que vivia sob sombra de destruição experimenta luz e alegria repentinas.
+
+Essa reviravolta é significativa não apenas pelo resultado, mas pelo contraste: a intensidade da alegria final parece proporcional à intensidade do medo anterior. Momentos de alívio genuíno, depois de períodos longos de tensão, costumam carregar esse mesmo peso — uma alegria mais profunda justamente por causa do que veio antes.
+
+Isso é relevante para quem atravessa hoje um período de tensão prolongada, sem saber ainda como vai terminar. A experiência de Ester sugere que reviravoltas reais acontecem, mesmo depois de longos períodos de medo genuíno — não como garantia automática, mas como possibilidade real.
+
+Vale lembrar, em meio à tensão atual, que ela não é necessariamente permanente. Luz e alegria podem vir depois de períodos genuinamente sombrios — às vezes de forma repentina, depois de uma longa espera.`,
+  },
+  {
+    id: 'm79',
+    slug: 'o-senhor-deu-o-senhor-tirou',
+    title: 'O Senhor Deu, o Senhor Tirou',
+    verseText: 'O Senhor deu, e o Senhor tirou; bendito seja o nome do Senhor.',
+    verseRef: 'Jó 1:21',
+    book: 'Jó',
+    category: 'fe',
+    date: '2027-01-17',
+    views: 298,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #9A968C 140%)',
+    body: `Jó perde, num único dia, praticamente tudo o que tinha — filhos, bens, segurança. E sua primeira reação, antes de qualquer explicação ou justiça restaurada, é essa afirmação: bendizer o nome de Deus, mesmo em meio à perda mais devastadora imaginável.
+
+Isso não é uma reação de negação ou insensibilidade — os capítulos seguintes mostram Jó genuinamente sofrendo, questionando, lamentando profundamente. Mas há, nesse primeiro momento, algo notável: a capacidade de reconhecer que tudo o que tinha era, desde o início, dádiva — não posse garantida por direito.
+
+Isso reformula a experiência da perda: doloroso, sempre, mas talvez processado de forma diferente quando se reconhece que aquilo que se perdeu nunca foi propriedade absoluta e permanente, mas dádiva recebida por um tempo.
+
+Isso não torna a dor menor nem sugere que o luto deva ser apressado ou minimizado. Mas oferece um ângulo diferente: gratidão pelo que foi recebido pode, eventualmente, coexistir com genuína tristeza pela perda — não como substituto da dor, mas como companhia dela.`,
+  },
+  {
+    id: 'm80',
+    slug: 'eu-sei-que-o-meu-redentor-vive',
+    title: 'Eu Sei que o Meu Redentor Vive',
+    verseText: 'Porque eu sei que o meu Redentor vive, e que por fim se levantará sobre a terra.',
+    verseRef: 'Jó 19:25',
+    book: 'Jó',
+    category: 'esperanca',
+    date: '2027-01-20',
+    views: 276,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `No meio de um sofrimento profundo, cercado por amigos que ofereciam explicações inadequadas para sua dor, Jó declara uma convicção que parece surgir do nada — uma certeza sobre algo além do sofrimento presente, uma esperança que a situação imediata não justificava.
+
+Isso é notável porque Jó não tinha, no momento, nenhuma resposta sobre o motivo do seu sofrimento. A afirmação não veio de entendimento completo da situação, mas de uma confiança que ultrapassava a necessidade de entender tudo primeiro.
+
+Há algo poderoso nisso para quem enfrenta sofrimento sem explicação clara hoje: a esperança genuína nem sempre depende de compreender completamente o "porquê". Às vezes é possível afirmar confiança em algo maior mesmo sem ter todas as respostas sobre a dificuldade presente.
+
+Isso não é resignação passiva, é uma forma de esperança ativa: continuar afirmando confiança, mesmo em meio à dor não resolvida, mesmo sem explicação completa disponível.`,
+  },
+  {
+    id: 'm81',
+    slug: 'onde-estavas-tu',
+    title: 'Onde Estavas Tu?',
+    verseText: 'Onde estavas tu quando eu lançava os fundamentos da terra? Faze-mo saber, se tens inteligência.',
+    verseRef: 'Jó 38:4',
+    book: 'Jó',
+    category: 'sabedoria',
+    date: '2027-01-23',
+    views: 201,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Depois de capítulos de perguntas angustiadas de Jó, buscando entender o motivo do seu sofrimento, a resposta de Deus não vem na forma de explicação detalhada. Vem na forma de uma série de perguntas retóricas sobre a vastidão da criação — um lembrete da diferença entre a perspectiva humana limitada e a compreensão divina.
+
+Isso pode parecer, à primeira vista, uma resposta evasiva. Mas há algo mais profundo acontecendo: em vez de uma explicação que talvez Jó não conseguisse plenamente processar mesmo se recebida, ele recebe um convite à humildade diante do mistério — reconhecer os limites reais da própria perspectiva.
+
+Isso não invalida a dor nem as perguntas genuínas que surgem no sofrimento. Mas sugere que nem toda dificuldade vem acompanhada de uma explicação completa e satisfatória — e que às vezes a resposta disponível não é "entender tudo", mas confiar em quem entende mais do que se pode enxergar.
+
+Diante de perguntas sem resposta clara hoje, talvez o convite não seja exigir explicação completa, mas aceitar humildemente os limites do próprio entendimento.`,
+  },
+  {
+    id: 'm82',
+    slug: 'o-senhor-e-o-meu-pastor',
+    title: 'O Senhor É o Meu Pastor',
+    verseText: 'O Senhor é o meu pastor, nada me faltará.',
+    verseRef: 'Salmos 23:1',
+    book: 'Salmos',
+    category: 'confianca',
+    date: '2027-01-26',
+    views: 356,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Um dos textos mais conhecidos e recitados de toda a Bíblia, e por boas razões: a imagem do pastor comunica cuidado próximo, atento, guiado por conhecimento profundo de quem está sendo cuidado — não uma autoridade distante, mas uma presença próxima e envolvida.
+
+"Nada me faltará" não é uma promessa de que tudo será fácil ou confortável — o próprio salmo menciona "o vale da sombra da morte" mais adiante. É antes uma afirmação de que, mesmo em meio a vales difíceis, o cuidado essencial permanece presente.
+
+Isso muda o que significa confiar: não a ausência de dificuldade, mas a presença constante de cuidado através da dificuldade. Um pastor não impede toda tempestade que as ovelhas atravessam, mas caminha com elas através dela.
+
+Recitar esse salmo, especialmente em momentos de incerteza, pode ser uma forma prática de realinhar o foco: não perguntar apenas "por que estou nesse vale?", mas lembrar "quem caminha comigo através dele?"`,
+  },
+  {
+    id: 'm83',
+    slug: 'um-coracao-quebrantado',
+    title: 'Um Coração Quebrantado',
+    verseText: 'Os sacrifícios para Deus são o espírito quebrantado; a um coração quebrantado e contrito não desprezarás, ó Deus.',
+    verseRef: 'Salmos 51:17',
+    book: 'Salmos',
+    category: 'perdao',
+    date: '2027-01-29',
+    views: 234,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Esse salmo foi escrito por Davi depois de seu erro grave com Bate-Seba, num momento de arrependimento genuíno e profundo. E é notável o que ele identifica como a oferta mais valiosa diante de Deus: não rituais externos, mas um coração honestamente quebrantado pelo próprio erro.
+
+Isso desafia uma tendência comum de tentar "compensar" erros com gestos externos — atividades religiosas intensificadas, boas ações extras — sem necessariamente passar pelo processo mais desconfortável de reconhecimento honesto e humilde da própria falha.
+
+"Coração quebrantado e contrito" não é um estado agradável de se estar — envolve genuíno desconforto, humildade, talvez vergonha. Mas o texto sugere que é precisamente esse estado, e não a aparência externa de estar bem, que é recebido com acolhimento, não desprezo.
+
+Isso é encorajador para quem carrega hoje um erro real e sente vergonha genuína por causa dele: esse estado desconfortável, longe de afastar, é exatamente o que abre a porta para restauração genuína.`,
+  },
+  {
+    id: 'm84',
+    slug: 'a-resposta-branda-desvia-o-furor',
+    title: 'A Resposta Branda Desvia o Furor',
+    verseText: 'A resposta branda desvia o furor, mas a palavra dura suscita a ira.',
+    verseRef: 'Provérbios 15:1',
+    book: 'Provérbios',
+    category: 'sabedoria',
+    date: '2027-02-01',
+    views: 245,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #4ECDC4 140%)',
+    body: `Um princípio simples, mas frequentemente ignorado no calor de um conflito: a forma como se responde a alguém irritado tem um impacto direto sobre se a situação esfria ou escala ainda mais.
+
+Isso não significa concordar sempre ou evitar dizer verdades difíceis. "Branda" descreve o tom, não necessariamente o conteúdo — é possível discordar firmemente, ainda assim, com um tom que não alimenta a escalada do conflito.
+
+Na prática, isso é mais difícil do que parece: quando alguém fala asperamente, o instinto natural é responder no mesmo tom, quase como reflexo automático. Escolher responder de forma branda exige uma pausa consciente antes de reagir — um momento entre o estímulo e a resposta.
+
+Isso é especialmente relevante em relações próximas, onde os mesmos conflitos tendem a se repetir. Quebrar o padrão de escalada mútua muitas vezes começa com uma pessoa escolhendo, deliberadamente, responder diferente do que o momento pareceria justificar.
+
+Antes da próxima resposta a uma provocação, vale a pausa: essa resposta vai esfriar ou vai alimentar o fogo?`,
+  },
+  {
+    id: 'm85',
+    slug: 'tudo-tem-o-seu-tempo',
+    title: 'Tudo Tem o Seu Tempo',
+    verseText: 'Tudo tem o seu tempo determinado, e há tempo para todo o propósito debaixo do céu.',
+    verseRef: 'Eclesiastes 3:1',
+    book: 'Eclesiastes',
+    category: 'sabedoria',
+    date: '2027-02-04',
+    views: 267,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Esse texto, seguido por uma lista poética de opostos — tempo de nascer e tempo de morrer, tempo de chorar e tempo de rir —, propõe algo relevante: nem toda estação da vida deveria parecer igual, e isso não é motivo de angústia, mas de aceitação.
+
+Há uma tendência de resistir a certas estações — querer que o tempo de choro passe rápido demais, ou tentar prolongar artificialmente um tempo de alegria que está naturalmente chegando ao fim. Esse texto sugere que cada estação tem seu lugar legítimo, mesmo as mais difíceis.
+
+Isso não é fatalismo passivo, mas um convite ao discernimento: reconhecer em que estação se está atualmente, e responder de forma apropriada a ela, em vez de forçar uma resposta que pertenceria a outra estação diferente.
+
+Se você está hoje numa estação difícil, esse texto não promete que ela vai durar para sempre — sugere justamente o oposto: estações mudam. E também não exige que você finja estar numa estação diferente da que realmente está vivendo agora.`,
+  },
+  {
+    id: 'm86',
+    slug: 'vaidade-de-vaidades',
+    title: 'Vaidade de Vaidades',
+    verseText: 'Vaidade de vaidades, diz o pregador, vaidade de vaidades, tudo é vaidade.',
+    verseRef: 'Eclesiastes 1:2',
+    book: 'Eclesiastes',
+    category: 'proposito',
+    date: '2027-02-07',
+    views: 189,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `O livro de Eclesiastes começa com essa afirmação intensa, quase desconcertante, vinda de alguém que teve acesso a riqueza, sabedoria e prazer em abundância — e ainda assim concluiu que, buscados como fim último em si mesmos, todos são passageiros e insatisfatórios.
+
+Isso não é niilismo — o livro continua e eventualmente conclui com um chamado a temer a Deus e guardar seus mandamentos. Mas o processo até chegar lá envolve uma honestidade brutal sobre os limites de tudo o que costuma ser buscado como fonte última de significado: prazer, riqueza, realização, conhecimento.
+
+Essa honestidade é, na verdade, útil: livra de expectativas irrealistas sobre o que essas coisas podem oferecer. Buscar prazer, sucesso ou conhecimento não é errado — o erro é esperar que sejam fonte última e suficiente de significado duradouro.
+
+Isso convida a uma pergunta pessoal: onde tenho buscado significado último que, na verdade, só pode ser fonte parcial e passageira dele?`,
+  },
+  {
+    id: 'm87',
+    slug: 'teme-a-deus-e-guarda-os-seus-mandamentos',
+    title: 'Teme a Deus e Guarda os Seus Mandamentos',
+    verseText: 'De tudo o que se tem ouvido, o fim é: Teme a Deus, e guarda os seus mandamentos; porque isto é o dever de todo homem.',
+    verseRef: 'Eclesiastes 12:13',
+    book: 'Eclesiastes',
+    category: 'fe',
+    date: '2027-02-10',
+    views: 198,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Depois de páginas explorando os limites e frustrações de buscar significado em prazer, riqueza, trabalho e conhecimento, o livro de Eclesiastes chega a uma conclusão surpreendentemente simples: temer a Deus e guardar seus mandamentos.
+
+Depois de tanta complexidade e questionamento ao longo do livro, essa simplicidade final é, de certa forma, um alívio. Não é uma resposta ingênua que ignora as dificuldades levantadas anteriormente — é uma conclusão alcançada depois de examinar honestamente as alternativas e reconhecer seus limites.
+
+Isso sugere algo sobre como a sabedoria genuína frequentemente funciona: não como acumulação infinita de mais informação e experiência, mas como um retorno, depois de muita exploração, a fundamentos simples e essenciais.
+
+Para quem se sente sobrecarregado por complexidade excessiva na busca de significado, esse texto oferece um convite a simplificar: talvez a resposta não esteja em mais uma busca elaborada, mas em voltar ao básico — reverência genuína e obediência simples.`,
+  },
+  {
+    id: 'm88',
+    slug: 'eu-sou-do-meu-amado',
+    title: 'Eu Sou do Meu Amado',
+    verseText: 'Eu sou do meu amado, e o meu amado é meu; ele apascenta o seu rebanho entre os lírios.',
+    verseRef: 'Cântico dos Cânticos 6:3',
+    book: 'Cântico dos Cânticos',
+    category: 'amor',
+    date: '2027-02-13',
+    views: 176,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Esse livro poético, incomum dentro do cânone bíblico por celebrar abertamente o amor romântico e a atração física entre um casal, inclui essa declaração mútua de pertencimento — não posse unilateral, mas reciprocidade: "eu sou dele, e ele é meu".
+
+Isso comunica algo importante sobre relacionamentos saudáveis: pertencimento mútuo, não hierarquia de posse de um lado só. Ambos os parceiros se entregam voluntariamente um ao outro, num equilíbrio de reciprocidade, não numa relação de propriedade unilateral.
+
+A presença desse livro na Bíblia também comunica algo significativo: o amor romântico e a atração física, dentro do contexto apropriado, são celebrados, não tratados como algo vergonhoso ou meramente tolerado. Há uma dignidade dada explicitamente a esse tipo de amor.
+
+Isso é um convite para relações românticas hoje: buscar esse mesmo tipo de reciprocidade genuína — não uma pessoa se anulando pela outra, mas duas pessoas escolhendo mutuamente pertencer uma à outra.`,
+  },
+  {
+    id: 'm89',
+    slug: 'as-muitas-aguas-nao-podem-apagar-o-amor',
+    title: 'As Muitas Águas Não Podem Apagar o Amor',
+    verseText: 'As muitas águas não podem apagar este amor, nem os rios afogá-lo.',
+    verseRef: 'Cântico dos Cânticos 8:7',
+    book: 'Cântico dos Cânticos',
+    category: 'amor',
+    date: '2027-02-16',
+    views: 201,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Uma declaração poderosa sobre a resistência do amor genuíno diante de adversidades — "muitas águas", uma imagem de força destrutiva capaz de apagar quase tudo, ainda assim incapaz de extinguir um amor verdadeiro.
+
+Isso não é uma promessa automática de que toda relação sobreviverá a qualquer dificuldade — relações reais exigem cuidado ativo, não apenas sentimento passivo. Mas descreve algo sobre a natureza e a resiliência do amor quando é genuíno e cultivado: capaz de atravessar tempestades reais sem se extinguir.
+
+Isso é relevante para casamentos e relações duradouras que atravessam períodos difíceis — crises financeiras, doenças, desentendimentos profundos. A imagem sugere que o amor genuíno não é frágil a ponto de ser apagado pela primeira grande dificuldade, mas algo mais resistente do que se costuma imaginar em momentos de crise.
+
+Para relações passando por "muitas águas" hoje, esse texto oferece menos uma garantia automática e mais um encorajamento: amor genuíno, cultivado com intenção, tem capacidade real de resistir a tempestades severas.`,
+  },
+  {
+    id: 'm90',
+    slug: 'levantai-vos-e-vinde',
+    title: 'Levantai-vos e Vinde',
+    verseText: 'Levanta-te, amiga minha, formosa minha, e vem.',
+    verseRef: 'Cântico dos Cânticos 2:10',
+    book: 'Cântico dos Cânticos',
+    category: 'alegria',
+    date: '2027-02-19',
+    views: 165,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #9A968C 140%)',
+    body: `Um convite simples e caloroso, no meio de um livro repleto de linguagem poética sobre atração e celebração mútua — um convite ao movimento, à presença, ao encontro, não à distância ou formalidade.
+
+Há algo bonito nessa simplicidade: em meio a tanta poesia elaborada ao longo do livro, esse convite direto — "levanta-te e vem" — comunica um desejo genuíno de proximidade, sem rodeios complicados.
+
+Isso é um lembrete útil para relações de qualquer tipo, não apenas românticas: convites diretos e calorosos de presença costumam comunicar cuidado de forma mais eficaz do que gestos elaborados e indiretos. Às vezes o mais significativo é simplesmente convidar alguém a se aproximar.
+
+Vale considerar, esta semana, estender um convite direto e caloroso a alguém importante — não algo elaborado, apenas um convite simples de presença e proximidade, expressando genuíno desejo de estar junto.`,
+  },
+  {
+    id: 'm91',
+    slug: 'vinde-e-arrazoemos',
+    title: 'Vinde, e Arrazoemos',
+    verseText: 'Vinde, pois, e arrazoemos, diz o Senhor: ainda que os vossos pecados sejam como a escarlata, eles se tornarão brancos como a neve.',
+    verseRef: 'Isaías 1:18',
+    book: 'Isaías',
+    category: 'perdao',
+    date: '2027-02-22',
+    views: 289,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Esse convite surge no meio de uma repreensão severa ao povo por infidelidade repetida — e ainda assim, em vez de rejeição definitiva, vem um convite ao diálogo aberto: "vinde, e arrazoemos", seguido de uma promessa surpreendente de transformação completa.
+
+"Arrazoemos" sugere uma conversa honesta, não uma condenação unilateral sem espaço para resposta. Mesmo diante de erro genuíno e repetido, a porta permanece aberta para diálogo, não fechada por rejeição definitiva.
+
+A imagem de escarlata se tornando branca como a neve comunica transformação completa, não apenas perdão parcial ou condicional. Não é uma limpeza superficial que deixa vestígios visíveis, mas uma renovação genuína e completa.
+
+Isso é relevante para quem carrega hoje um erro que parece grande demais para ser perdoado — a promessa aqui não é de perdão parcial ou hesitante, mas de transformação completa, por mais intensa que a "cor" do erro pareça.`,
+  },
+  {
+    id: 'm92',
+    slug: 'porque-eu-bem-sei-os-pensamentos-que-tenho-a-vosso-respeito',
+    title: 'Porque Eu Bem Sei os Pensamentos que Tenho a Vosso Respeito',
+    verseText: 'Porque eu bem sei os pensamentos que tenho a vosso respeito, diz o Senhor; pensamentos de paz, e não de mal, para vos dar o fim que esperais.',
+    verseRef: 'Jeremias 29:11',
+    book: 'Jeremias',
+    category: 'esperanca',
+    date: '2027-02-25',
+    views: 334,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Essa promessa foi escrita para um povo em exílio, longe de casa, numa situação que parecia genuinamente sem esperança de retorno próximo. E ainda assim, a mensagem não é de abandono, mas de propósito contínuo, mesmo em meio ao exílio.
+
+O contexto é importante: essa não era uma promessa de alívio imediato — o próprio texto, alguns versículos antes, menciona um período de setenta anos antes do retorno. A esperança oferecida não elimina a espera longa, mas afirma que ela tem propósito, mesmo sem solução rápida à vista.
+
+Isso é relevante para quem hoje está numa espécie de "exílio" pessoal — uma situação difícil e prolongada, sem solução rápida visível. A promessa aqui não é de fim imediato da dificuldade, mas de propósito presente mesmo durante ela, e de um fim que ainda está por vir.
+
+"Pensamentos de paz, e não de mal" é um lembrete importante para momentos em que a situação atual parece sugerir o contrário — a intenção por trás da travessia não é destrutiva, mesmo quando a travessia em si é difícil.`,
+  },
+  {
+    id: 'm93',
+    slug: 'bendito-o-homem-que-confia-no-senhor',
+    title: 'Bendito o Homem que Confia no Senhor',
+    verseText: 'Bendito o homem que confia no Senhor, e cuja esperança é o Senhor. Porque será como a árvore plantada junto às águas.',
+    verseRef: 'Jeremias 17:7-8',
+    book: 'Jeremias',
+    category: 'confianca',
+    date: '2027-02-28',
+    views: 245,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Esse texto compara duas formas de confiança — uma depositada em pessoas e recursos humanos, outra depositada no Senhor — e usa uma imagem vívida para descrever a segunda: uma árvore plantada junto às águas, com raízes profundas o suficiente para não temer nem mesmo em anos de seca.
+
+A imagem é útil porque reconhece que dificuldades reais — "o ano de sequidão" — continuam acontecendo mesmo para quem confia bem. A diferença não é ausência de dificuldade, mas a presença de raízes profundas o suficiente para atravessá-la sem murchar completamente.
+
+Isso desloca o foco de evitar todas as dificuldades para desenvolver raízes profundas o suficiente para atravessá-las bem. Práticas espirituais consistentes, relações de apoio genuínas, hábitos de confiança cultivados ao longo do tempo — tudo isso funciona como raízes que se aprofundam antes que a seca chegue.
+
+Antes que a próxima "seca" apareça, vale perguntar: minhas raízes têm sido cultivadas com profundidade suficiente para atravessá-la bem?`,
+  },
+  {
+    id: 'm94',
+    slug: 'as-suas-misericordias-se-renovam-cada-manha',
+    title: 'As Suas Misericórdias Se Renovam Cada Manhã',
+    verseText: 'As suas misericórdias são a causa de não sermos consumidos; renovam-se cada manhã. Grande é a tua fidelidade.',
+    verseRef: 'Lamentações 3:22-23',
+    book: 'Lamentações',
+    category: 'esperanca',
+    date: '2027-03-03',
+    views: 312,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `É notável que um dos textos mais reconfortantes de toda a Bíblia sobre a fidelidade de Deus apareça exatamente no meio de um livro de lamento profundo — escrito depois da destruição completa de Jerusalém, em meio a perda e devastação genuínas.
+
+Isso sugere que essa esperança não nasceu de circunstâncias fáceis, mas foi encontrada precisamente em meio às mais difíceis. "Renovam-se cada manhã" também é significativo: não uma provisão única que precisa durar indefinidamente, mas algo renovado repetidamente, dia após dia.
+
+Isso é um alívio para quem sente que não tem reservas suficientes para atravessar uma dificuldade longa de uma só vez. Não é preciso ter força suficiente para o mês inteiro hoje — apenas para hoje, sabendo que amanhã trará nova provisão renovada.
+
+Em meio a um "livro de lamentações" pessoal hoje, vale lembrar: mesmo aqui, essa mesma renovação diária continua disponível.`,
+  },
+  {
+    id: 'm95',
+    slug: 'bom-e-esperar-em-silencio',
+    title: 'Bom É Esperar em Silêncio',
+    verseText: 'Bom é esperar, e em silêncio, pela salvação do Senhor.',
+    verseRef: 'Lamentações 3:26',
+    book: 'Lamentações',
+    category: 'perseveranca',
+    date: '2027-03-06',
+    views: 187,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #4ECDC4 140%)',
+    body: `Num livro dominado por lamento e dor intensa, esse versículo introduz algo inesperado: um elogio à espera silenciosa, num momento em que gritar de angústia seria perfeitamente compreensível.
+
+"Esperar em silêncio" não é o mesmo que reprimir a dor ou fingir que está tudo bem — o próprio livro de Lamentações está cheio de expressão honesta de sofrimento. Mas sugere que, além da expressão da dor, há também um lugar para quietude confiante enquanto se aguarda a resposta.
+
+Isso é contracultural numa época que valoriza reação imediata e expressão constante. Há sabedoria em, depois de expressar honestamente a dor, também cultivar momentos de espera silenciosa — sem exigir respostas imediatas, sem preencher cada momento de ansiedade com mais atividade ou palavras.
+
+Isso não é passividade indefinida, mas uma disposição temporária de confiança enquanto a resposta ainda não chegou. Vale a pergunta: tenho dado espaço para esse tipo de espera silenciosa, ou preencho cada momento de incerteza com ruído?`,
+  },
+  {
+    id: 'm96',
+    slug: 'o-senhor-e-a-minha-porcao',
+    title: 'O Senhor É a Minha Porção',
+    verseText: 'A minha porção é o Senhor, diz a minha alma; portanto, esperarei nele.',
+    verseRef: 'Lamentações 3:24',
+    book: 'Lamentações',
+    category: 'confianca',
+    date: '2027-03-09',
+    views: 178,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Em meio à perda de praticamente tudo — cidade destruída, templo em ruínas, povo disperso —, o autor de Lamentações ainda encontra algo que permanece: "a minha porção é o Senhor". Não uma posse física que poderia ser destruída como todo o resto, mas algo que a devastação não conseguiu alcançar.
+
+Isso é uma distinção importante entre coisas que podem ser perdidas e aquilo que permanece mesmo quando tudo o mais desaba. A maioria das fontes humanas de segurança — posses, posição, relações, até saúde — está sujeita a perda. "Minha porção" aponta para algo de natureza diferente, não sujeito ao mesmo tipo de destruição.
+
+Isso não minimiza a dor real da perda das outras coisas — o livro inteiro é dedicado a lamentar exatamente essas perdas. Mas sugere que, mesmo quando tudo o mais é perdido, ainda resta algo que permanece disponível.
+
+Diante de uma perda real hoje, vale perguntar: o que ainda permanece, mesmo depois de tudo o que foi perdido?`,
+  },
+  {
+    id: 'm97',
+    slug: 'coracao-novo-vos-darei',
+    title: 'Coração Novo Vos Darei',
+    verseText: 'E vos darei um coração novo, e porei dentro de vós um espírito novo; e tirarei da vossa carne o coração de pedra, e vos darei um coração de carne.',
+    verseRef: 'Ezequiel 36:26',
+    book: 'Ezequiel',
+    category: 'esperanca',
+    date: '2027-03-12',
+    views: 256,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #2D6A6A 140%)',
+    body: `Essa promessa não fala de reforma comportamental gradual — pequenos ajustes de conduta —, mas de transformação interna profunda: um coração completamente diferente, substituído, não apenas polido ou melhorado.
+
+"Coração de pedra" é uma imagem poderosa de dureza, insensibilidade, resistência — algo que não se dobra nem responde. "Coração de carne", em contraste, é sensível, capaz de resposta real. A promessa não é enrijecer menos a pedra, mas substituí-la completamente.
+
+Isso é relevante para quem sente que certas áreas do próprio coração estão endurecidas — insensíveis a algo que deveriam tocar, resistentes a mudanças que sabidamente precisam acontecer. A resposta proposta aqui não é esforço próprio intensificado para amolecer a pedra, mas transformação que vem de fora, como dádiva recebida, não conquistada.
+
+Isso oferece esperança para áreas de dureza que parecem impossíveis de mudar por esforço próprio — sugerindo que transformação genuína, nesses casos, é menos sobre autodisciplina e mais sobre receber algo novo.`,
+  },
+  {
+    id: 'm98',
+    slug: 'podem-reviver-estes-ossos',
+    title: 'Podem Reviver Estes Ossos?',
+    verseText: 'E disse-me: Filho do homem, poderão reviver estes ossos? E eu disse: Senhor Deus, tu o sabes.',
+    verseRef: 'Ezequiel 37:3-5',
+    book: 'Ezequiel',
+    category: 'fe',
+    date: '2027-03-15',
+    views: 223,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Numa visão marcante, Ezequiel é levado a um vale cheio de ossos secos — uma imagem de morte completa, sem qualquer sinal de vida possível — e é perguntado se aqueles ossos poderiam reviver. Sua resposta honesta reconhece os limites do próprio entendimento: "tu o sabes".
+
+Essa resposta é interessante porque não afirma nem nega a possibilidade — reconhece simplesmente que a resposta está além da própria capacidade de avaliar. E o que acontece a seguir na visão é uma restauração completa e surpreendente daqueles ossos secos a vida plena.
+
+Isso é relevante para situações que parecem definitivamente "mortas" hoje — uma relação, um sonho, um projeto que parece completamente encerrado sem possibilidade de retorno. A pergunta "poderão reviver estes ossos?" pode parecer absurda diante de certas circunstâncias, e a resposta honesta pode genuinamente ser incerteza.
+
+Mas a visão sugere que mesmo o que parece definitivamente morto não está necessariamente além de restauração possível. Isso não garante que toda situação "morta" será revivida — mas convida a não descartar completamente essa possibilidade só porque parece impossível aos olhos humanos.`,
+  },
+  {
+    id: 'm99',
+    slug: 'nao-tenho-prazer-na-morte-do-impio',
+    title: 'Não Tenho Prazer na Morte do Ímpio',
+    verseText: 'Não tenho prazer na morte do ímpio, mas sim em que o ímpio se converta do seu caminho, e viva.',
+    verseRef: 'Ezequiel 33:11',
+    book: 'Ezequiel',
+    category: 'perdao',
+    date: '2027-03-18',
+    views: 198,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Esse texto revela algo importante sobre a disposição por trás mesmo das advertências mais severas da Bíblia: não satisfação com julgamento ou punição, mas desejo genuíno de que haja mudança de direção e restauração.
+
+Isso contrasta com uma imagem comum de julgamento divino como algo vingativo ou punitivo por prazer. O texto sugere o oposto: mesmo diante de erro grave, a disposição não é de condenação satisfeita, mas de esperança por arrependimento e vida restaurada.
+
+Isso tem implicações práticas para como se trata quem errou — inclusive a si mesmo. Se a disposição descrita aqui não busca satisfação em condenação, mas em restauração, talvez o mesmo padrão devesse orientar como se responde ao próprio erro: não autopunição prolongada, mas busca genuína por mudança e restauração.
+
+Para quem carrega hoje culpa de um erro real, esse texto oferece uma perspectiva diferente: o desejo por trás da correção não é condenação satisfeita, mas restauração genuína e esperançosa.`,
+  },
+  {
+    id: 'm100',
+    slug: 'nao-se-contaminou',
+    title: 'Não se Contaminou',
+    verseText: 'Daniel, porém, propôs no seu coração não se contaminar com a porção das iguarias do rei.',
+    verseRef: 'Daniel 1:8',
+    book: 'Daniel',
+    category: 'coragem',
+    date: '2027-03-21',
+    views: 267,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Daniel, ainda jovem, longe de casa, num ambiente estrangeiro que pressionava para conformidade, toma uma decisão silenciosa e firme: não participar de algo que comprometeria suas convicções, mesmo sob pressão significativa para se ajustar.
+
+"Propôs no seu coração" sugere uma decisão prévia, tomada antes mesmo da pressão específica aparecer — não uma reação improvisada no calor do momento, mas uma convicção já estabelecida com antecedência, pronta para ser aplicada quando o teste surgisse.
+
+Isso é uma estratégia prática relevante hoje: decisões importantes de caráter raramente são bem tomadas no calor da pressão do momento. É mais eficaz decidir com antecedência, em momentos de clareza, quais linhas não serão cruzadas — para que, quando a pressão chegar, a decisão já esteja tomada.
+
+Vale perguntar: existem convicções importantes que eu deveria "propor no coração" com antecedência, antes que a pressão específica apareça e torne a decisão mais difícil de tomar com clareza?`,
+  },
+  {
+    id: 'm101',
+    slug: 'o-nosso-deus-e-capaz-de-nos-livrar',
+    title: 'O Nosso Deus é Capaz de nos Livrar',
+    verseText: 'Se assim é, o nosso Deus, a quem servimos, é capaz de nos livrar; e ele nos livrará. Mas, se não, sabe, ó rei, que não serviremos os teus deuses.',
+    verseRef: 'Daniel 3:17-18',
+    book: 'Daniel',
+    category: 'fe',
+    date: '2027-03-24',
+    views: 289,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Diante da ameaça real de morte numa fornalha ardente, três jovens declaram sua confiança em Deus — mas com uma nuance importante: "ele nos livrará... mas, se não". A confiança expressa não estava condicionada à garantia de resultado favorável imediato.
+
+Essa distinção é significativa: fé genuína, aqui, não é dependente de um resultado específico esperado. Eles afirmam confiança na capacidade de Deus agir, mas permanecem firmes em sua convicção independentemente de qual seja o resultado final.
+
+Isso é diferente de uma fé condicional que só permanece firme enquanto os resultados são favoráveis. A declaração "mas, se não" sugere uma fé mais profunda — comprometida com a fidelidade independentemente do desfecho, não apenas quando o desfecho é o esperado.
+
+Isso é relevante para orações não respondidas da forma esperada. A pergunta não precisa ser apenas "Deus vai me livrar desta situação?", mas também: "meu compromisso permanece firme mesmo se a resposta for diferente do que espero?"`,
+  },
+  {
+    id: 'm102',
+    slug: 'tres-vezes-ao-dia-se-punha-de-joelhos',
+    title: 'Três Vezes ao Dia se Punha de Joelhos',
+    verseText: 'E, sabendo Daniel que a escritura estava assinada, entrou em sua casa, e, com as janelas abertas no seu quarto, punha-se de joelhos três vezes ao dia.',
+    verseRef: 'Daniel 6:10',
+    book: 'Daniel',
+    category: 'oracao',
+    date: '2027-03-27',
+    views: 234,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #9A968C 140%)',
+    body: `Diante de uma lei recém-assinada que tornava a oração ilegal, com pena de morte, Daniel não muda seu padrão de oração estabelecido — continua exatamente como antes, três vezes ao dia, com as janelas abertas, visível a qualquer um.
+
+Essa continuidade é notável: não foi uma decisão nova, tomada sob pressão — foi a continuação de um hábito já bem estabelecido antes da crise. A firmeza de Daniel naquele momento provavelmente foi possível justamente porque a prática já era consistente havia muito tempo.
+
+Isso sugere algo sobre como hábitos espirituais funcionam sob pressão: práticas consistentes cultivadas em tempos tranquilos tendem a se manter firmes quando a pressão chega, enquanto práticas inconsistentes ou recém-iniciadas têm menos probabilidade de resistir ao teste.
+
+Isso é um convite a cultivar hábitos espirituais consistentes agora, antes que uma crise específica os exija — não porque a crise seja previsível, mas porque a consistência prévia é o que sustenta a firmeza quando ela chegar.`,
+  },
+  {
+    id: 'm103',
+    slug: 'misericordia-quero-e-nao-sacrificio',
+    title: 'Misericórdia Quero, e Não Sacrifício',
+    verseText: 'Porque misericórdia quero, e não sacrifício; e o conhecimento de Deus, mais do que holocaustos.',
+    verseRef: 'Oséias 6:6',
+    book: 'Oséias',
+    category: 'amor',
+    date: '2027-03-30',
+    views: 212,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Esse texto, citado mais tarde por Jesus nos Evangelhos, confronta uma tendência de substituir relacionamento genuíno por cumprimento religioso externo — como se rituais corretos pudessem compensar a ausência de misericórdia real no coração.
+
+"Sacrifício" aqui representa a forma correta e visível de cumprir obrigações religiosas. "Misericórdia" representa algo mais interno e relacional — compaixão genuína, não apenas conformidade externa a regras. O texto prioriza claramente a segunda sobre a primeira.
+
+Isso é um alerta relevante para qualquer prática religiosa ou espiritual: é possível cumprir toda a forma externa correta — frequência, rituais, aparências — sem que isso reflita misericórdia genuína por dentro. A forma sem a substância se torna, segundo esse texto, insuficiente.
+
+Vale o autoexame: minha prática religiosa tem sido acompanhada de misericórdia genuína e relacional, ou tenho me contentado com a forma correta, sem a substância que realmente importa?`,
+  },
+  {
+    id: 'm104',
+    slug: 'semeai-para-vos-em-justica',
+    title: 'Semeai para Vós em Justiça',
+    verseText: 'Semeai para vós em justiça, e colhereis segundo a misericórdia; lavrai o campo alqueivado, porque é tempo de buscar ao Senhor.',
+    verseRef: 'Oséias 10:12',
+    book: 'Oséias',
+    category: 'esperanca',
+    date: '2027-04-02',
+    views: 176,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #2D6A6A 140%)',
+    body: `Essa imagem agrícola sugere uma sequência importante: primeiro é preciso lavrar terra que estava parada, "alqueivada" — terra não cultivada por um tempo, endurecida —, antes mesmo de poder semear com esperança de colheita futura.
+
+Isso reconhece que algumas áreas da vida precisam de preparação antes que mudança positiva seja possível. Não é apenas questão de "semear boas intenções" imediatamente, mas primeiro reconhecer e trabalhar terreno que ficou endurecido — hábitos negligenciados, relações deixadas de lado, disciplinas espirituais abandonadas.
+
+"É tempo de buscar ao Senhor" sugere um convite específico e presente — não um "algum dia", mas um chamado para o momento atual. A terra alqueivada não se prepara sozinha; exige trabalho ativo e intencional.
+
+Vale perguntar: existe alguma área "alqueivada" na minha vida — negligenciada por tempo demais — que precisa ser lavrada antes que eu possa esperar uma nova colheita ali?`,
+  },
+  {
+    id: 'm105',
+    slug: 'eu-a-atrairei-e-a-levarei-ao-deserto',
+    title: 'Eu a Atrairei, e a Levarei ao Deserto',
+    verseText: 'Portanto, eis que eu a atrairei, e a levarei ao deserto, e lhe falarei ao coração.',
+    verseRef: 'Oséias 2:14',
+    book: 'Oséias',
+    category: 'confianca',
+    date: '2027-04-05',
+    views: 165,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Esse texto usa uma imagem surpreendente: o deserto, normalmente associado a dificuldade e escassez, é descrito como o lugar onde uma conversa íntima e restauradora acontece — "falarei ao coração".
+
+Isso sugere algo contraintuitivo sobre como certos períodos difíceis funcionam: às vezes, é precisamente no "deserto" — um período de escassez, isolamento ou dificuldade — que uma proximidade mais profunda se torna possível, longe das distrações que preenchem tempos de abundância.
+
+Isso não glorifica dificuldade por si só, nem sugere que todo deserto tem necessariamente esse propósito. Mas oferece uma perspectiva alternativa para quem está atravessando um período árido hoje: talvez esse deserto não seja apenas ausência, mas também espaço criado para uma conversa mais profunda que a abundância normalmente não permite.
+
+Em meio a um "deserto" pessoal atual, vale a pergunta: existe, nesse espaço vazio, uma oportunidade de escuta mais profunda que a correria normal da vida costuma abafar?`,
+  },
+  {
+    id: 'm106',
+    slug: 'derramarei-do-meu-espirito',
+    title: 'Derramarei do Meu Espírito',
+    verseText: 'E há de ser que, depois derramarei o meu Espírito sobre toda a carne; e vossos filhos e vossas filhas profetizarão.',
+    verseRef: 'Joel 2:28',
+    book: 'Joel',
+    category: 'esperanca',
+    date: '2027-04-08',
+    views: 198,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #4ECDC4 140%)',
+    body: `Essa promessa, feita num contexto de restauração depois de devastação, fala de algo abrangente e generoso: não restrito a um grupo seleto, mas derramado amplamente — "sobre toda a carne", incluindo grupos que tradicionalmente tinham menos acesso e voz.
+
+Isso sugere um padrão importante sobre generosidade: dons e capacitação genuínos não são reservados apenas para os já privilegiados ou estabelecidos, mas oferecidos amplamente, incluindo quem normalmente seria deixado de fora.
+
+Isso é relevante para qualquer comunidade que pense em quem tem "permissão" para contribuir de forma significativa. Esse texto sugere uma visão mais ampla: capacidade e chamado não estão limitados por categorias tradicionais de status ou posição.
+
+Vale perguntar, tanto pessoalmente quanto em comunidades das quais se faz parte: estamos criando espaço amplo o suficiente para vozes diversas, ou restringindo, sem perceber, a quem esperamos ver contribuir de forma significativa?`,
+  },
+  {
+    id: 'm107',
+    slug: 'rasgai-o-vosso-coracao',
+    title: 'Rasgai o Vosso Coração',
+    verseText: 'E rasgai o vosso coração, e não as vossas vestes, e convertei-vos ao Senhor vosso Deus.',
+    verseRef: 'Joel 2:13',
+    book: 'Joel',
+    category: 'perdao',
+    date: '2027-04-11',
+    views: 187,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Na cultura da época, rasgar as próprias vestes era um gesto público e visível de luto ou arrependimento. O convite aqui vai além do gesto externo: rasgar o coração, não apenas a roupa — uma mudança interna genuína, não apenas uma demonstração visível.
+
+Isso é um lembrete relevante sobre a diferença entre parecer arrependido e estar genuinamente arrependido. É possível fazer o gesto externo correto — pedir desculpas, demonstrar remorso visível — sem que uma mudança real tenha acontecido internamente.
+
+"Rasgar o coração" sugere algo mais doloroso e mais profundo do que um gesto simbólico: reconhecimento genuíno, sentido internamente, não apenas performado externamente para ser visto por outros.
+
+Isso é um convite ao autoexame honesto: quando reconheço um erro, estou apenas fazendo o gesto externo esperado, ou há uma mudança real acontecendo internamente, mesmo que ninguém mais a veja?`,
+  },
+  {
+    id: 'm108',
+    slug: 'o-senhor-e-o-refugio-do-seu-povo',
+    title: 'O Senhor É o Refúgio do Seu Povo',
+    verseText: 'Mas o Senhor será o refúgio do seu povo, e a força dos filhos de Israel.',
+    verseRef: 'Joel 3:16',
+    book: 'Joel',
+    category: 'confianca',
+    date: '2027-04-14',
+    views: 176,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Em meio a descrições de julgamento e convulsão entre as nações, esse texto oferece um ponto fixo de estabilidade: não importa o que aconteça ao redor, existe um refúgio disponível, uma fonte de força que permanece constante.
+
+"Refúgio" sugere um lugar de proteção ativa, não apenas ausência de perigo ao redor — um lugar específico para onde se pode correr quando as circunstâncias externas se tornam ameaçadoras ou instáveis.
+
+Isso é relevante em tempos de instabilidade generalizada — sejam crises pessoais, familiares, ou até mudanças sociais maiores que geram ansiedade coletiva. Diante de circunstâncias externas que parecem fora de controle, esse texto aponta para algo que permanece firme independentemente do caos ao redor.
+
+Praticamente, isso é um convite a identificar e recorrer regularmente a esse refúgio — não apenas em momentos de crise aguda, mas como prática regular, para que ele já seja um espaço familiar quando a instabilidade chegar.`,
+  },
+  {
+    id: 'm109',
+    slug: 'corra-o-juizo-como-as-aguas',
+    title: 'Corra o Juízo como as Águas',
+    verseText: 'Mas corra o juízo como as águas, e a justiça como um ribeiro impetuoso.',
+    verseRef: 'Amós 5:24',
+    book: 'Amós',
+    category: 'sabedoria',
+    date: '2027-04-17',
+    views: 198,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Amós confronta um povo que mantinha rituais religiosos corretos, mas negligenciava justiça real nas relações cotidianas — uma separação entre religiosidade formal e comportamento ético genuíno que o profeta denuncia com veemência.
+
+A imagem de água corrente é significativa: não um evento pontual e ocasional de justiça, mas algo fluindo continuamente, de forma constante e abundante — não um gesto isolado de vez em quando, mas um padrão de vida.
+
+Isso desafia qualquer forma de fé que separe adoração formal de comportamento ético consistente no cotidiano. Não é suficiente ter os rituais corretos se as relações reais — no trabalho, na comunidade, na família — não refletem justiça genuína e constante.
+
+Vale o autoexame: minha prática espiritual tem sido acompanhada por um fluxo constante de justiça e integridade nas relações cotidianas, ou existe uma separação entre o que professo e como realmente trato as pessoas ao meu redor?`,
+  },
+  {
+    id: 'm110',
+    slug: 'prepara-te-para-te-encontrares-com-o-teu-deus',
+    title: 'Prepara-te para te Encontrares com o Teu Deus',
+    verseText: 'Porque eis que ele forma os montes, e cria o vento, e declara ao homem qual seja o seu pensamento... prepara-te, Israel, para te encontrares com o teu Deus.',
+    verseRef: 'Amós 4:12-13',
+    book: 'Amós',
+    category: 'fe',
+    date: '2027-04-20',
+    views: 165,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #9A968C 140%)',
+    body: `Esse convite vem depois de uma longa lista de advertências que o povo repetidamente ignorou — desastres, dificuldades, sinais que deveriam ter provocado mudança, mas que passaram despercebidos ou foram ignorados repetidamente.
+
+"Prepara-te para te encontrares com o teu Deus" é ao mesmo tempo solene e prático: um convite a não continuar adiando a resposta necessária, reconhecendo que o encontro é inevitável, mesmo que continuamente adiado.
+
+Isso é relevante para qualquer tendência de adiar decisões importantes de caráter ou direção espiritual, esperando um momento "mais conveniente" que nunca chega completamente. O convite aqui é para preparação ativa agora, não para espera indefinida.
+
+Vale perguntar: existe algo que tenho adiado repetidamente, esperando um momento mais conveniente que talvez nunca chegue — e que, na verdade, precisa de atenção agora?`,
+  },
+  {
+    id: 'm111',
+    slug: 'buscai-me-e-vivei',
+    title: 'Buscai-me, e Vivei',
+    verseText: 'Porque assim diz o Senhor à casa de Israel: Buscai-me, e vivei.',
+    verseRef: 'Amós 5:4',
+    book: 'Amós',
+    category: 'proposito',
+    date: '2027-04-23',
+    views: 187,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Um convite direto e simples, em meio a um livro repleto de advertências severas: buscar é o caminho para vida genuína, não apenas sobrevivência formal, mas vida plena e verdadeira.
+
+A simplicidade desse convite contrasta com a complexidade de tantas outras tentativas humanas de encontrar significado e vitalidade — através de conquistas, posses, reconhecimento. Aqui, a resposta proposta é mais direta: buscar a Deus é o caminho para vida real.
+
+Isso não significa que buscar seja fácil ou que aconteça uma única vez de forma definitiva. Mas sugere que, em meio a tantas alternativas complicadas de buscar sentido, existe um caminho relativamente simples e disponível a qualquer momento.
+
+Se a vida tem parecido mais sobrevivência do que vitalidade genuína ultimamente, talvez o convite seja voltar a esse ponto simples de partida: buscar, deliberadamente, antes de tentar qualquer solução mais complicada.`,
+  },
+  {
+    id: 'm112',
+    slug: 'a-soberba-do-teu-coracao-te-enganou',
+    title: 'A Soberba do Teu Coração te Enganou',
+    verseText: 'A soberba do teu coração te enganou, ó tu que habitas nas fendas das rochas, na tua alta morada.',
+    verseRef: 'Obadias 1:3',
+    book: 'Obadias',
+    category: 'sabedoria',
+    date: '2027-04-26',
+    views: 154,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #2D6A6A 140%)',
+    body: `Edom, o povo endereçado nesse curto livro profético, vivia numa região montanhosa naturalmente protegida, o que gerava uma falsa sensação de segurança absoluta e invulnerabilidade — uma soberba baseada em vantagem geográfica, não em segurança real.
+
+"A soberba do teu coração te enganou" é uma advertência sobre como vantagens reais — posição, recursos, proteção — podem gerar uma confiança exagerada que ignora vulnerabilidades genuínas ainda presentes. Segurança aparente nem sempre é segurança real.
+
+Isso é relevante para qualquer situação de vantagem ou estabilidade aparente hoje — financeira, profissional, relacional. É fácil, a partir de uma posição confortável, desenvolver uma confiança excessiva que ignora riscos reais ainda presentes, apenas porque a posição atual parece segura.
+
+Vale o autoexame periódico: existe alguma área da minha vida onde a aparência de segurança tem gerado soberba, ignorando vulnerabilidades reais que ainda merecem atenção?`,
+  },
+  {
+    id: 'm113',
+    slug: 'como-fizeste-assim-se-te-fara',
+    title: 'Como Fizeste, Assim se te Fará',
+    verseText: 'Porque o dia do Senhor está perto, sobre todas as nações; como fizeste, se te fará a ti; a tua recompensa voltará sobre a tua cabeça.',
+    verseRef: 'Obadias 1:15',
+    book: 'Obadias',
+    category: 'confianca',
+    date: '2027-04-29',
+    views: 143,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Esse princípio, expresso de forma direta nesse breve livro profético, descreve algo que a experiência humana repetidamente confirma: ações têm consequências, e padrões de tratamento tendem, de alguma forma, a retornar.
+
+Isso não é necessariamente uma fórmula mecânica e imediata — nem sempre a consequência aparece rapidamente ou de forma óbvia. Mas descreve um princípio moral mais amplo: como se trata outros — com crueldade ou compaixão, injustiça ou integridade — tende a moldar, com o tempo, o que se recebe de volta.
+
+Isso é um convite a examinar os próprios padrões de tratamento para com outros, especialmente aqueles em posição mais vulnerável — não por medo de retaliação mecânica, mas por reconhecer que padrões de tratamento tendem a se perpetuar, de várias formas, ao longo do tempo.
+
+Vale perguntar: os padrões que tenho estabelecido em como trato outros são padrões que eu gostaria de ver retornando para mim?`,
+  },
+  {
+    id: 'm114',
+    slug: 'no-monte-siao-havera-livramento',
+    title: 'No Monte Sião Haverá Livramento',
+    verseText: 'Mas no monte Sião haverá livramento, e será santo; e a casa de Jacó possuirá as suas possessões.',
+    verseRef: 'Obadias 1:17',
+    book: 'Obadias',
+    category: 'esperanca',
+    date: '2027-05-02',
+    views: 165,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #C9A84C 140%)',
+    body: `Depois de um livro inteiro dedicado a anunciar julgamento sobre Edom, essas palavras finais mudam de tom: uma promessa de restauração para quem havia sido oprimido, um lembrete de que julgamento sobre injustiça e restauração para quem sofreu injustamente caminham juntos.
+
+Isso é significativo: a justiça bíblica não é apenas sobre punir o mal, mas também sobre restaurar o que foi injustamente tomado ou destruído. As duas coisas aparecem juntas, não isoladas uma da outra.
+
+Para quem sofreu injustiça real — de outra pessoa, de circunstâncias, de sistemas maiores —, esse padrão oferece esperança dupla: não apenas que a injustiça será, de alguma forma, tratada, mas que a restauração do que foi perdido também é parte da promessa.
+
+Isso não elimina a dor real de perdas já sofridas, mas oferece uma perspectiva mais ampla: julgamento sobre o mal e restauração para quem foi ferido não são processos separados, mas parte da mesma promessa maior.`,
+  },
+  {
+    id: 'm115',
+    slug: 'levanta-te-vai-a-ninive',
+    title: 'Levanta-te, Vai a Nínive',
+    verseText: 'E veio segunda vez a palavra do Senhor a Jonas, dizendo: Levanta-te, vai a Nínive, aquela grande cidade, e prega contra ela a pregação que eu te mandarei.',
+    verseRef: 'Jonas 3:1-2',
+    book: 'Jonas',
+    category: 'proposito',
+    date: '2027-05-05',
+    views: 234,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Notável nesse texto é o fato de existir uma "segunda vez" — Jonas já havia recebido esse chamado antes, e havia fugido na direção oposta. Depois de uma experiência dramática dentro de um grande peixe, ele recebe uma segunda oportunidade de responder ao mesmo chamado original.
+
+Isso é significativo: o chamado não desapareceu por causa da desobediência inicial. Houve consequências reais pela fuga, mas o propósito original permaneceu disponível, oferecido novamente depois do processo de correção.
+
+Isso é encorajador para quem já desviou de um chamado ou responsabilidade importante no passado, e presume que essa oportunidade específica já passou definitivamente. A história de Jonas sugere que segundas oportunidades genuínas são possíveis, mesmo depois de fuga clara e desobediência inicial.
+
+Se existe um chamado do qual você já fugiu no passado, talvez essa "segunda vez" ainda esteja disponível — não como garantia automática, mas como possibilidade real, digna de consideração.`,
+  },
+  {
+    id: 'm116',
+    slug: 'dos-dominios-do-inferno-clamei',
+    title: 'Dos Domínios do Inferno Clamei',
+    verseText: 'E disse: Na minha angústia clamei ao Senhor, e ele me ouviu; do ventre do inferno gritei, e tu ouviste a minha voz.',
+    verseRef: 'Jonas 2:2',
+    book: 'Jonas',
+    category: 'oracao',
+    date: '2027-05-08',
+    views: 198,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Dentro do peixe, em circunstâncias extremas e desesperadoras — consequência direta de sua própria desobediência —, Jonas ora. Não uma oração polida e formal, mas um clamor genuíno de angústia, vindo de uma situação que ele mesmo havia causado por fugir do chamado original.
+
+Há algo significativo nisso: mesmo estando naquela situação por causa de sua própria escolha errada, a oração de Jonas ainda foi ouvida. A angústia auto-infligida não impediu a resposta — não havia uma condição de "primeiro mereça ser ouvido" antes que Deus escutasse.
+
+Isso é relevante para momentos em que a dificuldade atual é, em parte ou totalmente, resultado de escolhas próprias anteriores. É fácil, nesses casos, sentir que não se tem "direito" de clamar por ajuda, já que a situação foi autoinfligida.
+
+A oração de Jonas sugere o contrário: mesmo em circunstâncias autoinfligidas, o clamor sincero continua sendo ouvido. Isso não elimina a responsabilidade pela escolha original, mas remove a barreira de achar que não se pode buscar ajuda depois de errar.`,
+  },
+  {
+    id: 'm117',
+    slug: 'nao-faria-eu-bem-de-poupar-ninive',
+    title: 'Não Faria Eu Bem de Poupar Nínive?',
+    verseText: 'E não pouparia eu a Nínive, aquela grande cidade, em que há mais de cento e vinte mil pessoas...?',
+    verseRef: 'Jonas 4:11',
+    book: 'Jonas',
+    category: 'amor',
+    date: '2027-05-11',
+    views: 187,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `O livro termina de forma inacabada e provocativa: Jonas, irritado por Nínive ter sido poupada depois de se arrepender, recebe uma pergunta final de Deus sobre compaixão por uma cidade inteira — incluindo pessoas que Jonas considerava inimigas, indignas de misericórdia.
+
+Isso revela algo desconfortável sobre o próprio Jonas: ele estava mais preocupado com sua própria satisfação de ver justiça, na forma de destruição, do que genuinamente feliz com a possibilidade de restauração para outros — especialmente para quem ele via como diferente ou indigno.
+
+Essa é uma tentação comum: preferir, secretamente, ver "os outros" — quem discordamos, quem nos ofendeu, grupos que consideramos diferentes — recebendo julgamento em vez de misericórdia, mesmo enquanto pedimos misericórdia para nós mesmos.
+
+O final em aberto do livro — sem resposta registrada de Jonas — deixa a pergunta ecoando também para o leitor: existe algum grupo de pessoas para quem eu secretamente prefiro julgamento a misericórdia?`,
+  },
+  {
+    id: 'm118',
+    slug: 'que-e-o-que-o-senhor-pede-de-ti',
+    title: 'Que É o que o Senhor Pede de Ti',
+    verseText: 'Ele te declarou, ó homem, o que é bom; e que é o que o Senhor pede de ti, senão que pratiques a justiça, e ames a beneficência, e andes humildemente com o teu Deus.',
+    verseRef: 'Miquéias 6:8',
+    book: 'Miquéias',
+    category: 'sabedoria',
+    date: '2027-05-14',
+    views: 245,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #4ECDC4 140%)',
+    body: `Depois de perguntas retóricas sobre quais sacrifícios extravagantes poderiam agradar a Deus, esse texto oferece uma resposta surpreendentemente simples e prática: justiça, beneficência (ou misericórdia) e humildade — não rituais elaborados, mas caráter vivido.
+
+Essas três coisas, embora simples de nomear, são genuinamente difíceis de praticar consistentemente: justiça exige coragem para fazer o certo mesmo quando custa algo; beneficência exige compaixão ativa, não apenas sentimento passivo; humildade exige reconhecer os próprios limites, especialmente diante de Deus.
+
+Isso oferece um padrão útil de autoavaliação, mais concreto do que abstrações vagas sobre "ser uma boa pessoa": pratico justiça de forma consistente? Amo e ajo com misericórdia genuína? Ando com humildade real, ou com orgulho disfarçado de confiança?
+
+Vale revisar essas três áreas regularmente — não como checklist perfeccionista, mas como bússola simples para avaliar a direção geral da própria vida.`,
+  },
+  {
+    id: 'm119',
+    slug: 'de-ti-me-saira',
+    title: 'De Ti Me Sairá',
+    verseText: 'E tu, Belém Efrata, posto que pequena entre os milhares de Judá, de ti me sairá o que será senhoreador em Israel.',
+    verseRef: 'Miquéias 5:2',
+    book: 'Miquéias',
+    category: 'esperanca',
+    date: '2027-05-17',
+    views: 213,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Essa profecia, escrita séculos antes de seu cumprimento, aponta para uma pequena cidade insignificante — Belém — como origem de algo grande. A menção explícita de sua pequenez, "posto que pequena", parece intencional: destacar que grandeza não depende de tamanho ou importância aparente.
+
+Isso é um padrão que se repete ao longo de toda a narrativa bíblica: coisas significativas frequentemente começam em lugares pequenos, através de pessoas ou circunstâncias aparentemente insignificantes — não porque o tamanho não importa, mas porque significado real não depende dele.
+
+Isso é encorajador para quem se sente numa posição "pequena" hoje — uma cidade pequena, um trabalho aparentemente sem importância, uma contribuição que parece minúscula diante de necessidades maiores. A pequenez do ponto de partida não determina o alcance do impacto final.
+
+Vale lembrar, em meio a circunstâncias que parecem pequenas ou insignificantes: grandeza real raramente depende do tamanho aparente do começo.`,
+  },
+  {
+    id: 'm120',
+    slug: 'tornara-a-ter-misericordia-de-nos',
+    title: 'Tornará a Ter Misericórdia de Nós',
+    verseText: 'Tornará a ter misericórdia de nós; nossas iniquidades pisará aos pés; e lançarás todos os nossos pecados nas profundezas do mar.',
+    verseRef: 'Miquéias 7:19',
+    book: 'Miquéias',
+    category: 'perdao',
+    date: '2027-05-20',
+    views: 198,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #2D6A6A 140%)',
+    body: `A imagem usada aqui para descrever o perdão é vívida e completa: pecados lançados "nas profundezas do mar" — não apenas escondidos ou adiados, mas removidos para um lugar de onde não se espera recuperação.
+
+Isso comunica algo importante sobre a natureza do perdão genuíno: não é uma remoção parcial ou temporária, mas completa — como algo afundado tão profundamente que se torna praticamente inacessível, fora de alcance.
+
+Isso é relevante para quem tem dificuldade de aceitar que um erro específico realmente foi perdoado, continuando a revisitá-lo mentalmente como se ainda estivesse "flutuando na superfície", disponível para ser lembrado e usado contra si mesmo repetidamente.
+
+Se um erro do passado continua sendo revisitado dessa forma, talvez a pergunta seja: estou tratando esse erro como algo já lançado nas profundezas, ou continuo insistindo em trazê-lo de volta à superfície, mesmo depois de genuinamente entregue?`,
+  },
+  {
+    id: 'm121',
+    slug: 'o-senhor-e-bom-fortaleza-no-dia-da-angustia',
+    title: 'O Senhor É Bom, Fortaleza no Dia da Angústia',
+    verseText: 'O Senhor é bom, fortaleza no dia da angústia; e conhece os que confiam nele.',
+    verseRef: 'Naum 1:7',
+    book: 'Naum',
+    category: 'confianca',
+    date: '2027-05-23',
+    views: 176,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Esse breve versículo, em meio a um livro dedicado principalmente a anunciar julgamento contra uma cidade opressora, oferece um contraste importante: mesmo em meio a mensagens de julgamento severo, há espaço para afirmar cuidado ativo por quem confia.
+
+"Conhece os que confiam nele" sugere algo mais pessoal do que conhecimento genérico — um reconhecimento específico e íntimo, não uma observação distante e impessoal. Não apenas sabendo que existem, mas conhecendo de forma próxima e atenta.
+
+Isso é um lembrete valioso especialmente em contextos de instabilidade ou julgamento ao redor — situações em que parece que tudo está desmoronando ou sendo julgado. Mesmo nesses contextos, existe um espaço de cuidado específico e pessoal para quem mantém confiança.
+
+"No dia da angústia" reconhece que dias assim realmente acontecem — não é uma promessa de que a angústia nunca chegará, mas de que, quando chegar, há fortaleza disponível especificamente para esse momento.`,
+  },
+  {
+    id: 'm122',
+    slug: 'o-senhor-e-tardio-em-irar-se',
+    title: 'O Senhor É Tardio em Irar-se',
+    verseText: 'O Senhor é tardio em irar-se, e grande em força, e ao culpado não terá por inocente.',
+    verseRef: 'Naum 1:3',
+    book: 'Naum',
+    category: 'paz',
+    date: '2027-05-26',
+    views: 154,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Esse texto equilibra duas características que podem parecer, à primeira vista, contraditórias: paciência genuína ("tardio em irar-se") e justiça séria que não ignora culpa real ("ao culpado não terá por inocente").
+
+Isso é um padrão útil para pensar sobre paciência em geral: paciência genuína não é a mesma coisa que ignorar ou minimizar problemas reais indefinidamente. É possível ser paciente — dar tempo, não reagir precipitadamente — sem, ao mesmo tempo, fingir que questões sérias não existem ou não importam.
+
+Isso é relevante para relações difíceis, situações de conflito prolongado, ou até para o próprio processo de mudança pessoal: paciência com o processo não significa ignorar indefinidamente o que precisa mudar. As duas coisas podem, e talvez devam, coexistir.
+
+Vale o exame: em situações difíceis que exigem tanto paciência quanto seriedade sobre problemas reais, tenho conseguido equilibrar as duas, ou caído para um extremo — paciência que vira negligência, ou seriedade que vira impaciência precipitada?`,
+  },
+  {
+    id: 'm123',
+    slug: 'eis-sobre-os-montes-os-pes-do-que-anuncia-boas-novas',
+    title: 'Eis sobre os Montes os Pés do que Anuncia Boas Novas',
+    verseText: 'Eis sobre os montes os pés do que anuncia boas novas, do que faz ouvir a paz!',
+    verseRef: 'Naum 1:15',
+    book: 'Naum',
+    category: 'esperanca',
+    date: '2027-05-29',
+    views: 187,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #9A968C 140%)',
+    body: `Essa imagem — pés visíveis sobre os montes, anunciando boas novas de longe — descreve o momento em que uma mensagem de alívio finalmente se aproxima, visível antes mesmo de chegar completamente, depois de um longo período de más notícias e opressão.
+
+Há algo poderoso na antecipação descrita aqui: o alívio já pode ser percebido chegando, mesmo antes de estar plenamente presente. A esperança não depende de a boa notícia já estar completamente realizada — começa a partir do momento em que se torna visível no horizonte.
+
+Isso é relevante para quem está numa longa espera por alívio de alguma dificuldade prolongada. Às vezes, antes da resolução completa, já é possível perceber sinais de que a mudança está a caminho — pequenos indícios que merecem atenção, mesmo antes da resolução total.
+
+Vale prestar atenção: existem, na situação difícil atual, sinais iniciais — "pés sobre os montes" — de que boas notícias podem estar se aproximando, mesmo que ainda não tenham chegado completamente?`,
+  },
 ]
