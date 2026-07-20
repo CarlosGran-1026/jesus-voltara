@@ -29,7 +29,7 @@ export default function Messages() {
       </div>
 
       <p style={{ fontSize: 'var(--fs-sm)', color: 'var(--text-muted)', marginBottom: 'var(--sp-3)' }}>
-        {results.length} mensagem{results.length !== 1 ? 'ns' : ''} encontrada{results.length !== 1 ? 's' : ''}
+        {results.length === 1 ? '1 mensagem encontrada' : `${results.length} mensagens encontradas`}
       </p>
 
       {shown.length > 0 ? (
@@ -51,6 +51,19 @@ export default function Messages() {
       ) : (
         <div className="empty-state">
           <p>Nenhuma mensagem encontrada com esses filtros. Tente ajustar sua busca.</p>
+          {(query.trim() || category || book) && (
+            <button
+              className="btn btn-outline"
+              style={{ marginTop: 'var(--sp-2)', marginRight: '0.6em' }}
+              onClick={() => {
+                setQuery('')
+                setCategory('')
+                setBook('')
+              }}
+            >
+              Limpar filtros
+            </button>
+          )}
           {query.trim() && (
             <Link to={`/buscar?q=${encodeURIComponent(query.trim())}`} className="btn btn-outline" style={{ marginTop: 'var(--sp-2)' }}>
               Buscar "{query.trim()}" na Bíblia completa

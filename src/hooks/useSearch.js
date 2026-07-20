@@ -16,7 +16,8 @@ export function useSearch(messages) {
           m.title.toLowerCase().includes(q) ||
           m.verseText.toLowerCase().includes(q) ||
           m.body.toLowerCase().includes(q) ||
-          m.verseRef.toLowerCase().includes(q)
+          m.verseRef.toLowerCase().includes(q) ||
+          m.book.toLowerCase().includes(q)
       )
     }
 
