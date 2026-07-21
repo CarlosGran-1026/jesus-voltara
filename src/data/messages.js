@@ -2388,4 +2388,289 @@ Isso é relevante para quem está numa longa espera por alívio de alguma dificu
 
 Vale prestar atenção: existem, na situação difícil atual, sinais iniciais — "pés sobre os montes" — de que boas notícias podem estar se aproximando, mesmo que ainda não tenham chegado completamente?`,
   },
+  {
+    id: 'm124',
+    slug: 'o-justo-viver-pela-sua-fe',
+    title: 'O Justo Viverá pela Sua Fé',
+    verseText: 'Mas o justo viverá pela sua fé.',
+    verseRef: 'Habacuque 2:4',
+    book: 'Habacuque',
+    category: 'fe',
+    date: '2027-06-01',
+    views: 267,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Habacuque escreve em meio a uma crise real de fé: ele questiona abertamente por que a injustiça parece prosperar sem resposta imediata, e recebe uma resposta que não resolve todas as suas perguntas, mas oferece um princípio duradouro — o justo viverá pela fé, não por respostas completas.
+
+Essa frase, mais tarde citada repetidamente no Novo Testamento como fundamento central da mensagem cristã, sugere que fé genuína não depende de ter todas as explicações antes de continuar vivendo com integridade. É possível viver fielmente mesmo em meio a perguntas não resolvidas.
+
+Isso é honesto sobre a experiência espiritual real: perguntas difíceis sobre justiça, sofrimento e o aparente silêncio de Deus diante deles não são sinal de fé fraca — são parte normal da caminhada, como o próprio Habacuque demonstra ao trazer suas dúvidas diretamente a Deus.
+
+"Viverá pela fé" sugere um processo contínuo, não um evento único — dia após dia, escolhendo confiar mesmo sem ter todas as respostas completas disponíveis agora.`,
+  },
+  {
+    id: 'm125',
+    slug: 'ainda-que-a-figueira-nao-floresca',
+    title: 'Ainda que a Figueira Não Floresça',
+    verseText: 'Ainda que a figueira não floresça, e não haja fruto na vide... todavia eu me alegrarei no Senhor.',
+    verseRef: 'Habacuque 3:17-18',
+    book: 'Habacuque',
+    category: 'alegria',
+    date: '2027-06-04',
+    views: 234,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #C9A84C 140%)',
+    body: `Depois de expressar suas dúvidas e receber uma resposta que não eliminava toda a incerteza, Habacuque chega a uma conclusão notável: alegria que não depende de circunstâncias favoráveis — nem colheita, nem prosperidade visível, nada do que normalmente sustentaria alegria.
+
+Essa lista de "ainda que" — figueira sem flor, vide sem fruto, lavoura sem produção — descreve exatamente o oposto de segurança econômica na época. Era, literalmente, a descrição de uma situação de escassez severa e real.
+
+E mesmo assim: "eu me alegrarei". Não uma alegria ingênua que nega a dificuldade real da escassez, mas uma alegria que encontra fundamento em outro lugar, quando as fontes usuais de segurança e alegria simplesmente não estão disponíveis.
+
+Isso é um padrão poderoso para tempos de escassez real — financeira, emocional, relacional. A pergunta não precisa ser apenas "tenho motivos externos para alegria hoje?", mas também: "existe um fundamento de alegria que não depende dessas circunstâncias específicas?"`,
+  },
+  {
+    id: 'm126',
+    slug: 'o-senhor-esta-no-seu-santo-templo',
+    title: 'O Senhor Está no Seu Santo Templo',
+    verseText: 'Mas o Senhor está no seu santo templo; cale-se diante dele toda a terra.',
+    verseRef: 'Habacuque 2:20',
+    book: 'Habacuque',
+    category: 'paz',
+    date: '2027-06-07',
+    views: 198,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Depois de um capítulo inteiro de perguntas urgentes e queixas legítimas, esse versículo final introduz um contraste marcante: um convite ao silêncio reverente diante da presença constante e estável de Deus, mesmo em meio a um mundo agitado e cheio de injustiça.
+
+"Cale-se diante dele toda a terra" não é uma ordem para reprimir perguntas honestas — o próprio livro está cheio delas. É antes um convite, depois de expressar essas perguntas genuinamente, a também encontrar momentos de quietude reverente, sem exigir que cada pergunta seja respondida antes que a paz seja possível.
+
+Isso sugere uma disciplina espiritual valiosa: alternar entre trazer perguntas honestas e genuínas, e também cultivar momentos de silêncio confiante, sem que um cancele a legitimidade do outro.
+
+Numa época de informação constante e opinião instantânea sobre tudo, esse convite ao silêncio reverente é especialmente contracultural — e, talvez por isso mesmo, especialmente necessário.`,
+  },
+  {
+    id: 'm127',
+    slug: 'o-senhor-se-alegrara-em-ti-com-cantos',
+    title: 'O Senhor se Alegrará em Ti com Cantos',
+    verseText: 'O Senhor teu Deus... se alegrará em ti com cantos.',
+    verseRef: 'Sofonias 3:17',
+    book: 'Sofonias',
+    category: 'amor',
+    date: '2027-06-10',
+    views: 289,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Esse texto oferece uma imagem pouco comum: não apenas um Deus que ama de forma abstrata ou distante, mas um que se alegra ativamente, a ponto de cantar — uma expressão de afeto genuíno e entusiasmado, não apenas tolerância paciente.
+
+Isso desafia uma imagem comum de Deus como principalmente severo ou distante, focado em corrigir erros. Esse texto, no meio de um livro que trata bastante de julgamento, oferece um contraponto importante: por trás da correção, existe afeto genuíno e alegre.
+
+"Se alegrará em ti com cantos" é uma imagem quase parental — como um pai ou mãe cantando de alegria genuína pela presença de um filho amado, não apenas cumprindo obrigação de cuidado.
+
+Isso é relevante para quem carrega uma imagem predominantemente severa ou distante de Deus. Esse texto sugere algo diferente: um afeto ativo e alegre, não apenas tolerância cautelosa.`,
+  },
+  {
+    id: 'm128',
+    slug: 'nao-temas-as-tuas-maos-nao-se-enfraquecam',
+    title: 'Não Temas, as Tuas Mãos Não se Enfraqueçam',
+    verseText: 'Não temas... as tuas mãos não se enfraqueçam.',
+    verseRef: 'Sofonias 3:16',
+    book: 'Sofonias',
+    category: 'coragem',
+    date: '2027-06-13',
+    views: 213,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Esse breve encorajamento reconhece algo real sobre o medo prolongado: ele não apenas afeta emoções, mas também enfraquece capacidade prática de agir — "as mãos" que fariam o trabalho necessário ficam fracas, paralisadas.
+
+Isso descreve bem o que ansiedade prolongada faz na prática: além do desconforto emocional, ela mina a energia disponível para as tarefas cotidianas necessárias. Decisões simples se tornam difíceis, tarefas rotineiras parecem exigir esforço desproporcional.
+
+O encorajamento "não temas" vem acompanhado de um cuidado prático com as consequências físicas do medo — reconhecendo que ele não é apenas um sentimento a ser gerenciado internamente, mas algo que afeta a capacidade real de funcionar bem.
+
+Isso valida algo que muita gente experimenta sem nomear claramente: cansaço físico e mental genuíno como resultado de ansiedade prolongada, não apenas fraqueza de caráter. Reconhecer isso já é parte do caminho de volta à força.`,
+  },
+  {
+    id: 'm129',
+    slug: 'buscai-a-justica-buscai-a-mansidao',
+    title: 'Buscai a Justiça, Buscai a Mansidão',
+    verseText: 'Buscai ao Senhor, vós todos os mansos da terra... buscai a justiça, buscai a mansidão.',
+    verseRef: 'Sofonias 2:3',
+    book: 'Sofonias',
+    category: 'sabedoria',
+    date: '2027-06-16',
+    views: 176,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Esse convite combina três buscas que nem sempre parecem naturalmente conectadas: buscar o Senhor, buscar justiça, e buscar mansidão. Não apenas devoção espiritual isolada, mas também ação prática por justiça, unida a um caráter humilde e gentil.
+
+Isso é um lembrete de que fé genuína raramente se limita a uma única dimensão da vida. Não é suficiente buscar apenas proximidade espiritual sem também buscar justiça nas relações; nem é suficiente lutar por justiça sem cultivar mansidão no processo.
+
+Mansidão, em particular, é frequentemente mal-entendida como fraqueza. Mas descreve mais precisamente força sob controle — capacidade real de agir, mas escolhida de forma gentil e não agressiva, mesmo diante de causas legítimas e importantes.
+
+Vale examinar as três áreas juntas: minha busca espiritual tem sido acompanhada de compromisso genuíno com justiça? E essa busca por justiça tem sido conduzida com mansidão, ou tem se tornado áspera e combativa no processo?`,
+  },
+  {
+    id: 'm130',
+    slug: 'considerai-os-vossos-caminhos',
+    title: 'Considerai os Vossos Caminhos',
+    verseText: 'Considerai os vossos caminhos. Semeais muito, e recolheis pouco.',
+    verseRef: 'Ageu 1:5-6',
+    book: 'Ageu',
+    category: 'sabedoria',
+    date: '2027-06-19',
+    views: 165,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `O povo havia retornado do exílio, mas priorizado construir suas próprias casas enquanto deixava a reconstrução do templo de lado por anos. Ageu confronta essa ordem de prioridades com uma observação prática: apesar do esforço investido em outras coisas, os resultados pareciam consistentemente insatisfatórios.
+
+"Considerai os vossos caminhos" é um convite a examinar honestamente se o esforço investido está alinhado com as prioridades corretas — não apenas trabalhar muito, mas trabalhar nas coisas certas, na ordem certa.
+
+Isso é relevante para qualquer situação em que o esforço parece não estar produzindo os resultados esperados. Às vezes o problema não é falta de esforço, mas prioridades desalinhadas — investindo energia significativa em coisas secundárias enquanto o essencial fica negligenciado.
+
+Vale um exame periódico e honesto: os "caminhos" atuais — onde tempo, energia e recursos estão realmente sendo investidos — refletem as prioridades que eu diria serem mais importantes, ou existe uma desconexão que talvez explique frustrações recentes?`,
+  },
+  {
+    id: 'm131',
+    slug: 'maior-sera-a-gloria-desta-ultima-casa',
+    title: 'Maior Será a Glória Desta Última Casa',
+    verseText: 'Maior será a glória desta última casa do que a da primeira, diz o Senhor dos exércitos.',
+    verseRef: 'Ageu 2:9',
+    book: 'Ageu',
+    category: 'esperanca',
+    date: '2027-06-22',
+    views: 187,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #4ECDC4 140%)',
+    body: `O povo que reconstruía o templo comparava, com tristeza, a nova estrutura mais modesta com a magnificência do templo original de Salomão, destruído décadas antes. A comparação gerava desânimo — o novo parecia inferior, um substituto diminuído do que havia sido perdido.
+
+A promessa aqui reformula completamente essa comparação: em vez de medir valor apenas pela aparência física visível, aponta para uma glória futura que ultrapassaria até mesmo o esplendor original perdido.
+
+Isso é relevante para qualquer processo de reconstrução que pareça, comparado ao que existia antes, menor ou menos impressionante — uma relação reconstruída depois de uma crise, uma carreira recomeçada depois de um revés, uma comunidade reformada depois de dificuldades.
+
+A comparação direta com "como era antes" nem sempre é o critério certo para avaliar valor. Esse texto sugere que reconstruções, mesmo quando parecem inicialmente modestas, podem carregar um valor e um propósito que ultrapassam o que existia antes — não apesar da reconstrução, mas por causa dela.`,
+  },
+  {
+    id: 'm132',
+    slug: 'considerai-como-vos-vai',
+    title: 'Considerai Como Vos Vai',
+    verseText: 'Ponde, pois, agora o coração nisto: como vos tem ido desde este dia para trás.',
+    verseRef: 'Ageu 2:15',
+    book: 'Ageu',
+    category: 'proposito',
+    date: '2027-06-25',
+    views: 154,
+    cover: 'linear-gradient(135deg, #235454 0%, #E4D6A7 140%)',
+    body: `Ageu convida o povo a comparar dois momentos: antes e depois de retomarem a prioridade correta — a reconstrução do templo. O convite é para observar honestamente como as coisas mudaram desde que a prioridade foi realinhada, não apenas assumir que nada é diferente.
+
+Esse tipo de avaliação honesta é útil em qualquer processo de mudança pessoal: depois de realinhar prioridades — seja tempo dedicado à família, disciplina espiritual, ou hábitos de trabalho —, vale a pena parar e observar concretamente o que mudou, em vez de simplesmente seguir em frente sem reflexão.
+
+Isso não é sobre buscar resultados imediatos e dramáticos como prova de que a mudança "funcionou" — algumas mudanças levam tempo para produzir frutos visíveis. Mas é sobre cultivar o hábito de observação honesta, em vez de mudar de direção sem nunca avaliar o impacto real.
+
+Vale a pergunta: desde que realinhei alguma prioridade importante recentemente, tenho parado para observar honestamente o que mudou, ou apenas segui em frente sem essa reflexão?`,
+  },
+  {
+    id: 'm133',
+    slug: 'tornai-vos-a-mim-e-eu-me-tornarei-a-vos',
+    title: 'Tornai-vos a Mim, e Eu me Tornarei a Vós',
+    verseText: 'Tornai-vos a mim, diz o Senhor dos exércitos, e eu me tornarei a vós, diz o Senhor dos exércitos.',
+    verseRef: 'Zacarias 1:3',
+    book: 'Zacarias',
+    category: 'perdao',
+    date: '2027-06-28',
+    views: 198,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #2D6A6A 140%)',
+    body: `Esse convite simples propõe uma estrutura recíproca: o movimento de volta não precisa ser completo e perfeito antes que haja resposta — o convite é para dar o primeiro passo, com a promessa de que essa resposta virá em retorno.
+
+Isso remove um obstáculo comum ao arrependimento genuíno: a sensação de que é preciso primeiro consertar tudo sozinho, antes de merecer qualquer aproximação renovada. O texto sugere o oposto: o movimento inicial, mesmo imperfeito, já é suficiente para iniciar a resposta.
+
+"Eu me tornarei a vós" espelha exatamente o movimento pedido — não uma resposta desproporcional ou hesitante, mas simétrica ao movimento de retorno oferecido.
+
+Isso é encorajador para quem hesita em se aproximar novamente depois de um período de distanciamento — seja espiritual, seja em qualquer relação importante. O convite simples é: dê o primeiro passo de volta; a resposta correspondente já está disponível.`,
+  },
+  {
+    id: 'm134',
+    slug: 'nao-por-forca-nem-por-violencia',
+    title: 'Não por Força, Nem por Violência',
+    verseText: 'Não por força nem por violência, mas pelo meu Espírito, diz o Senhor dos exércitos.',
+    verseRef: 'Zacarias 4:6',
+    book: 'Zacarias',
+    category: 'confianca',
+    date: '2027-07-01',
+    views: 234,
+    cover: 'linear-gradient(135deg, #16213E 0%, #4ECDC4 140%)',
+    body: `Zorobabel enfrentava a tarefa aparentemente impossível de reconstruir o templo em meio a recursos limitados e oposição significativa. Essa palavra vem como resposta: o sucesso não dependeria de força humana ou capacidade impressionante de resistir por conta própria.
+
+Isso desafia uma tendência natural de medir a possibilidade de sucesso pela força e recursos visivelmente disponíveis. Diante de uma tarefa grande demais para a própria capacidade, a resposta natural costuma ser desânimo ou tentativa desesperada de reunir mais força própria.
+
+Esse texto propõe uma alternativa: não negar a insuficiência real de força própria, mas confiar num recurso diferente, não medido da mesma forma que capacidade humana comum.
+
+Isso é relevante para qualquer tarefa hoje que pareça exigir mais força ou recursos do que se tem disponível. A pergunta não precisa ser apenas "tenho força suficiente para isso?", mas também: "que outro tipo de recurso está disponível além da minha própria capacidade?"`,
+  },
+  {
+    id: 'm135',
+    slug: 'alegra-te-grandemente-filha-de-siao',
+    title: 'Alegra-te Grandemente, Filha de Sião',
+    verseText: 'Alegra-te grandemente, ó filha de Sião; exulta, ó filha de Jerusalém; eis que o teu rei virá a ti.',
+    verseRef: 'Zacarias 9:9',
+    book: 'Zacarias',
+    category: 'esperanca',
+    date: '2027-07-04',
+    views: 267,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #16213E 140%)',
+    body: `Essa profecia, escrita séculos antes de seu cumprimento, descreve uma chegada específica com detalhes precisos — incluindo o modo de chegada, montado sobre um jumento, um símbolo de humildade em vez de poder militar imponente.
+
+O convite à alegria vem antes mesmo do cumprimento visível da promessa — uma alegria antecipada, baseada na confiabilidade da promessa em si, não apenas na experiência já realizada dela.
+
+Isso ilustra algo sobre esperança genuína: ela pode gerar alegria real mesmo antes da realização completa, simplesmente pela confiança na fonte da promessa. Não é necessário esperar até ver tudo cumprido para começar a experimentar alegria genuína sobre o que está prometido.
+
+Para promessas ainda não cumpridas na própria vida hoje, esse padrão sugere uma possibilidade: permitir-se alegria genuína desde já, baseada na confiabilidade de quem prometeu, não apenas reservando a alegria para depois que tudo já estiver visivelmente resolvido.`,
+  },
+  {
+    id: 'm136',
+    slug: 'trazei-todos-os-dizimos',
+    title: 'Trazei Todos os Dízimos',
+    verseText: 'Trazei todos os dízimos à casa do tesouro... e provai-me nisto, diz o Senhor dos exércitos, se eu não vos abrir as janelas do céu.',
+    verseRef: 'Malaquias 3:10',
+    book: 'Malaquias',
+    category: 'generosidade',
+    date: '2027-07-07',
+    views: 298,
+    cover: 'linear-gradient(135deg, #235454 0%, #C9A84C 140%)',
+    body: `Esse é um dos poucos lugares em toda a Bíblia onde há um convite explícito para "provar" — testar ativamente — a fidelidade de uma promessa através de uma ação concreta específica: generosidade prática e consistente.
+
+Isso sugere que generosidade genuína não é apenas um dever moral abstrato, mas algo que pode ser experimentado e verificado através da prática real, não apenas aceito teoricamente.
+
+É importante notar o contexto: o povo estava retendo o que deveria ser dado, e o convite não é para dar de forma calculista, esperando retorno proporcional garantido, mas para experimentar genuinamente o que acontece quando se prioriza generosidade consistente em vez de retenção ansiosa.
+
+Isso é relevante para qualquer hesitação em praticar generosidade por medo de não ter o suficiente depois. O convite aqui não é ingênuo sobre recursos limitados, mas sugere que generosidade praticada com fé, em vez de retenção ansiosa, tende a revelar algo sobre provisão que a retenção nunca revelaria.`,
+  },
+  {
+    id: 'm137',
+    slug: 'porque-eu-sou-o-senhor-nao-mudo',
+    title: 'Porque Eu Sou o Senhor, Não Mudo',
+    verseText: 'Porque eu, o Senhor, não mudo; por isso vós, ó filhos de Jacó, não sois consumidos.',
+    verseRef: 'Malaquias 3:6',
+    book: 'Malaquias',
+    category: 'confianca',
+    date: '2027-07-10',
+    views: 245,
+    cover: 'linear-gradient(135deg, #C9A84C 0%, #235454 140%)',
+    body: `Esse texto conecta diretamente a imutabilidade de Deus com a sobrevivência e continuidade do povo — "por isso... não sois consumidos". A estabilidade divina não é apenas um atributo teológico abstrato, mas fundamento prático de segurança contínua.
+
+Numa vida marcada por mudanças constantes — circunstâncias que mudam, pessoas que decepcionam, planos que precisam se ajustar repetidamente —, esse texto aponta para algo que permanece genuinamente estável, não sujeito às mesmas oscilações.
+
+Isso é relevante para momentos de instabilidade generalizada, quando parece que nada permanece firme por muito tempo. Enquanto praticamente tudo ao redor está sujeito a mudança, esse texto afirma um ponto de referência que não compartilha dessa instabilidade.
+
+Isso não elimina a realidade de que mudanças acontecem constantemente na vida prática. Mas oferece um ponto de ancoragem que não é afetado por elas — algo que permanece igual, independentemente de quantas outras coisas estejam mudando ao redor.`,
+  },
+  {
+    id: 'm138',
+    slug: 'nascera-o-sol-da-justica',
+    title: 'Nascerá o Sol da Justiça',
+    verseText: 'Mas para vós, os que temeis o meu nome, nascerá o sol da justiça, e cura trará debaixo das suas asas.',
+    verseRef: 'Malaquias 4:2',
+    book: 'Malaquias',
+    category: 'esperanca',
+    date: '2027-07-13',
+    views: 276,
+    cover: 'linear-gradient(135deg, #2D6A6A 0%, #9A968C 140%)',
+    body: `Essa promessa final do Antigo Testamento — literalmente os últimos versículos antes de um longo silêncio profético de séculos — encerra com uma imagem de esperança luminosa: um sol nascente trazendo cura, depois de um livro que, como muitos profetas, trata bastante de correção e advertência.
+
+"Cura trará debaixo das suas asas" combina duas imagens poderosas: luz que dissipa escuridão, e proteção que abriga e restaura. Não apenas uma promessa de julgamento evitado, mas de restauração ativa e cuidado próximo.
+
+É significativo que o Antigo Testamento termine dessa forma — não com condenação como última palavra, mas com esperança de cura para quem permanece fiel, mesmo em meio a tantos capítulos anteriores de advertência e correção.
+
+Isso estabelece um padrão importante para ler toda a narrativa que veio antes: julgamento e correção nunca foram a palavra final pretendida, mas um caminho, por mais difícil, em direção a essa cura e restauração prometidas no horizonte.`,
+  },
 ]
